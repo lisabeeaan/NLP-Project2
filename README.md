@@ -13,7 +13,7 @@ The experiment evaluates frozen checkpoints. It does not train, fine-tune or opt
 ## Repository layout
 
 ```text
-.
+nlp-project-2
 ├── data/
 │   ├── XhTxt/
 │   ├── EnTxt/                          # not used in the historical core corpus
