@@ -45,11 +45,12 @@ nlp-project-2
 
 ## 1. Environment
 
-A CUDA-capable GPU is strongly recommended due to the scripts being cuda accelerated. 
+A CUDA-capable GPU is strongly recommended due to the scripts being cuda accelerated. Also log into hugging-face (it saves your access token to your local cache)
 
 To create a new environment when needed:
 
 ```bash
+hf auth login # setup according to your token
 mkdir nlp-project-2
 python3 -m venv isixhosa-env
 source isixhosa-env/bin/activate
