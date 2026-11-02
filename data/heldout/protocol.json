@@ -1,0 +1,36 @@
+{
+  "seed": 20261031,
+  "n_per_corpus_per_split": 300,
+  "length_edges": [
+    0.0,
+    52.0,
+    79.0,
+    111.0,
+    162.0,
+    null
+  ],
+  "counts": {
+    "historical": {
+      "input_rows": 327265,
+      "deduplicated_rows": 263768,
+      "old_source_groups": 240,
+      "all_source_groups": 718
+    },
+    "modern": {
+      "input_rows": 41188,
+      "deduplicated_rows": 41188,
+      "old_source_groups": 220,
+      "all_source_groups": 1538
+    }
+  },
+  "cross_corpus_overlap_removed": 0,
+  "primary_metric": "median historical minus modern NLL per character, within model",
+  "secondary_metrics": [
+    "NLL per token",
+    "tokens per character",
+    "tokens per whitespace word"
+  ],
+  "inference": "independent source-group bootstrap; Holm across models for each metric",
+  "scope": "Frozen pretrained checkpoints. development_train is unused for training.",
+  "test_policy": "Freeze checkpoints, filters, scoring and reporting before scoring test."
+}

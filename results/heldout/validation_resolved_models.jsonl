@@ -1,0 +1,5 @@
+{"model": "mbert", "checkpoint": {"name": "bert-base-multilingual-cased", "type": "mlm", "has_xh": false}, "resolved_commit": null, "tokenizer_commit": null, "model_type": "mlm"}
+{"model": "afriberta", "checkpoint": {"name": "castorini/afriberta_large", "type": "mlm", "has_xh": false}, "resolved_commit": null, "tokenizer_commit": null, "model_type": "mlm"}
+{"model": "xlmr", "checkpoint": {"name": "FacebookAI/xlm-roberta-large", "type": "mlm", "has_xh": true}, "resolved_commit": null, "tokenizer_commit": null, "model_type": "mlm"}
+{"model": "afroxlmr", "checkpoint": {"name": "Davlan/afro-xlmr-large", "type": "mlm", "has_xh": true}, "resolved_commit": null, "tokenizer_commit": null, "model_type": "mlm"}
+{"model": "inkubalm", "checkpoint": {"name": "lelapa/InkubaLM-0.4B", "type": "clm", "has_xh": true}, "resolved_commit": null, "tokenizer_commit": null, "model_type": "clm"}

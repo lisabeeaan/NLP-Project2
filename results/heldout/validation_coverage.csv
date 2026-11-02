@@ -1,0 +1,11 @@
+model,corpus,n,groups,mean_chars,median_chars
+afriberta,historical,300,100,115.03,91.5
+afriberta,modern,300,114,111.92666666666666,96.0
+afroxlmr,historical,300,100,115.03,91.5
+afroxlmr,modern,300,114,111.92666666666666,96.0
+inkubalm,historical,300,100,115.03,91.5
+inkubalm,modern,300,114,111.92666666666666,96.0
+mbert,historical,300,100,115.03,91.5
+mbert,modern,300,114,111.92666666666666,96.0
+xlmr,historical,300,100,115.03,91.5
+xlmr,modern,300,114,111.92666666666666,96.0

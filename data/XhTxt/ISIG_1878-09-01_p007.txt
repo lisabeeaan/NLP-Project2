@@ -1,0 +1,205 @@
+EZASE MARKENI.
+
+E-QONCE.
+
++------------------------------+----+----+----+----+----+
+| Umbona nge ngxowa ...        | 17 | 0  | he | 25 | 0  |
++==============================+====+====+====+====+====+
+| Itapile „ „                  | 26 | 0  |    | 35 | 6  |
++------------------------------+----+----+----+----+----+
+| Amazimba „                   | 0  | 0  |    | 18 | 0  |
++------------------------------+----+----+----+----+----+
+| Umgubo „                     | 20 | 0  |    | 26 | 9  |
++------------------------------+----+----+----+----+----+
+| Ihabile nge 100 lbs          | 0  | 0  |    | 25 | 6  |
++------------------------------+----+----+----+----+----+
+| Isikumba segusha             | 1  | 0  |    | 0  | 0  |
++------------------------------+----+----+----+----+----+
+| Isikumba senkomo nge lb      | 0  | 0  |    | 0  | l  |
++------------------------------+----+----+----+----+----+
+|   E-BAYI.                    |    |    |    |    |    |
++------------------------------+----+----+----+----+----+
+| Umbona nge ngxowa ...        | 30 | 0  | ne | 36 | 0  |
++------------------------------+----+----+----+----+----+
+| Amazimba „                   | 20 | 0  |    | 60 | 0  |
++------------------------------+----+----+----+----+----+
+| Umgubo „                     | 32 | 0  |    | 40 | 0  |
++------------------------------+----+----+----+----+----+
+| Itapile „                    | 30 | 0  |    | 39 | 0  |
++------------------------------+----+----+----+----+----+
+| Irasi nge 100 lbs            | 25 | 0  |    | 28 | 0  |
++------------------------------+----+----+----+----+----+
+| Isikumba senkomo nge lb      | 0  | 3  |    | 0  | 3| |
++------------------------------+----+----+----+----+----+
+| Esegusha sisinye             | 0  | 6  |    | 2  | 0  |
++------------------------------+----+----+----+----+----+
+| Esebokwe „ ...               | 1  | 9  |    | 3  | 0  |
++------------------------------+----+----+----+----+----+
+| Esetole „ ...                | 2  | 0  |    | 10 | 0  |
++------------------------------+----+----+----+----+----+
+| Iplanga ngonyawo             | 0  | 6  |    | 0  | 9  |
++------------------------------+----+----+----+----+----+
+| Uboya begusha...             | 1  | 4  |    | 0  | 0  |
++------------------------------+----+----+----+----+----+
+| Uboya beseyi bokwe ...       | 1  | 4  |    | 0  | 0  |
++------------------------------+----+----+----+----+----+
+| Intsiba zenciniba            | 20 | 0  |    | 29 | 0  |
++------------------------------+----+----+----+----+----+
+|   E-RINI.                    |    |    |    |    |    |
++------------------------------+----+----+----+----+----+
+| Umbona nge ngxowa ...        | 0  | 0  | ne | 42 | 0  |
++------------------------------+----+----+----+----+----+
+| Amazimba „                   | 0  | 0  |    | 0  | 0  |
++------------------------------+----+----+----+----+----+
+| Umgubo „                     | 0  | 0  |    | 52 | 0  |
++------------------------------+----+----+----+----+----+
+| Itapile „                    | 0  | 0  |    | 54 | 0  |
++------------------------------+----+----+----+----+----+
+| Irasi nge 100 lbs            | 0  | 0  |    | 23 | 0  |
++------------------------------+----+----+----+----+----+
+| Imbotyi „ ...                | 18 | 0  |    | 25 | 0  |
++------------------------------+----+----+----+----+----+
+| Ihabile „ ...                | 13 | 0  |    | 18 | 0  |
++------------------------------+----+----+----+----+----+
+|   E-FORT BEAUFOBT.           | 0  | ne | 50 | 0  |    |
+|                              |    |    |    |    |    |
+| Umbona nge ngxowa ... ... 48 |    |    |    |    |    |
++------------------------------+----+----+----+----+----+
+| Amazimba „                   | 0  | 0  |    | 0  | 0  |
++------------------------------+----+----+----+----+----+
+| Umgubo „                     | 0  | 0  |    | 0  | 0  |
++------------------------------+----+----+----+----+----+
+| Irasi nge 100 lbs            | 0  | 0  |    | 0  | 0  |
++------------------------------+----+----+----+----+----+
+| Ihabile „                    | 0  | 0  |    | 0  | 0  |
++------------------------------+----+----+----+----+----+
+| Itapile nge ngxowa           | 0  | 0  |    | 0  | 0  |
++------------------------------+----+----+----+----+----+
+
+IMALI EROLIWEYO IBATALELA “ ISIGIDIMI ” NGO AUGUST, 1878.
+
+  Igama.          Umlambo.    Ihlaulelwe.       Inani.
+  --------------- ----------- ----------------- ---------
+  Rev. W. Rein    Wartburg    December, 1878    £0 12 0
+  Mr. Poloti      Shawbury    March, 1877       0 9 0
+  „ Thomson       Gatberg     December, 1878    0 8 0
+  „ Woodland      Cradock                       0 6 0
+  „ Nomveti       Shawbury                      0 5 0
+  „ Nonkazana                                   0 5 0
+  Rev. W. Davis               February, 1879    0 4 8
+  Mr. Maselana                December, 1878    0 4 8
+  „ Mtwa                                        0 4 8
+  „ J. Ntlati                                   0 4 0
+  ,, Socikwa                                    0 4 0
+  „ Gxono                     April, 1879       0 4 0
+  „ Loyi                                        0 4 0
+  „ Tonyeni                   December, 1878    0 4 0
+  „ Maneli        Gatberg     April, 1879       0 4 0
+  „ Esau                      July, 1879        0 4 0
+  „ Sobantu                   December, 1878    0 4 0
+  „ Hlengezela    Dohne       September, 1879   0 4 0
+  „ Fumba         Bethulie    July, 1879        0 4 0
+  Rev. J. Mjila   Transkei    December, 1878    0 4 0
+  Mr. Dlamini     Uitenhage                     0 14
+
+  IMALI YENQWELO EZISUKA E-RINI.                                 
+  -------------------------------- ------ ---- ---- ---- ------- ----------
+                                   s.     d.   8.   d.           
+  E-Alice                          0      0    ne   3    0 nge   100 lbs.
+  „ Aliwal North ...               0      0         10   0       
+  „ Adelaide                       . 0    0         3    0       
+  „ Bedford                        . 0    0         3    6       
+  „ Burghersdorp ..                . 10   0         0    0       
+  „ Bloemfontein ..                . 0    0         17   0       
+  „ Cradock                        . 5    6         6    0       
+  „ Colesberg                      . 0    0         0    0       
+  „ Dordrecht                      . 0    0         0    0       
+  „ Fort Peddie                    . 0    0         2    0       
+  „ Fort Beaufort ..               . 0    0         2    9       
+  „ Hopetown                       . 0    0         0    0       
+  „K. W. Town ..                   . 0    0         3    6       
+  „ Middelburg                     . 0    0         0    0       
+  „ Port Elizabeth..               . 0    0         2    0       
+  ,, Port Alfred                   . 0    8         0    9       
+  „ Queenstown                     . 5    0         6    0       
+  „ Somerset                       0      0         0    0       
+  „ Diamond-fields                 0      0         20   0       
+
+IMIHLABA ETENGISAYO.
+
+Kwimihlaba, ababube abaniniyo bengamisanga
+ndlela eya kupatwa ngayo ebiyeka NOHAI MA-
+VAVAN noka MGOZI PEZISSA noka MATEOS
+MANKAZANA.
+
+ISAZISO SIKA RULUMENTE.
+
+NJENGOKUBA abafazi bala madoda alwa no Rulumente befuuyenwe betu-
+
+tela abalwi ukutya nozi Kuluwa, u-Rulumente ubone ukuba kufuneka
+beshenxisiwe kwindawo abanokututela amadoda ukutya nezinto zemfazwe,
+kuba lemixesho yolula imfazwe ukuze iye kupela ngexesha elingaziwa mntu.
+
+Abafazi nabantwana abafuuyenwe bebadula ezweni beswele, kuya kuzingiswa
+ngokuti batunyelwe e-Qonce apo baya kwamkeliswa ukudla, belapo baya
+kutunyelwa e-Kapa ukuze bahlale kona bade bafaniswe ngabanini babo,
+mhlaumbi kude kugcihywe kupe_ liswe olu lulo.
+
+Xeshikweni sekude kwabuya kwazola oti amadoda afuna ukuzuza intsapo yawo
+ebitu- nyelwe e-Kapa, acele ku Rulumente apumele ukuya e-Kapa angabizwa
+mali; efikile kona ancediswe ade afumane abo abafunayo.
+
+Koti ke ukuze lendawo ifezeke, babalwe ngokuzalisekileyo, kubalwe igama
+lomfazi nelomntwana, indawo abahlala kuyo, igama loyise nokuba yindoda
+nokuba zezinye izihlobo, into ke leyo eya kwenza kube lula ukufumana
+osakuba efunwa.
+
+Kobako incwadi ebalwe ngolo hlobo eya kugcinwa yi mantyi yase Qonce
+neyase Ka­pa abangati ke ngamaxesha onke bayibone abafuna ukwazi
+ngezihlobo ezilahlekileyo.—
+
+Aba bafazi nabantwana xa base Kapa ba­ya kugcinwa ligosa elitile eliya
+kuba kangelela amalungelo abo, ekoti ukuba kuko abate banyula ukumka
+baye enkonzweni nakwe minye imicimbi, libalwe igama lalomntu umkayo,
+igama nendawo yalomntu afumene inkonzo kuye.
+
+Osakuba efuna ukwazi ngezihlobo angacela kwi mantyi yase Qonce nokuba
+yeyase Kapa ukuba aboniswe incwadi leyo yamagama, kohlala ngamaxesha
+onke afanelekileyo kuvulekile ukuba ibonwe loncwadi, axelelwe ancediswe
+umntu osakuba ebuza izihlobo ngendlela eya kukwenza lula ukufumana
+abanjalo.
+
+  WILLIAM AYLIFF,
+
+Umpatiswa Wemicimbi Yabantsundu,
+
+  Kwi Office Yompatiswa Wemicimbi Yabantsundu, E-Qonce 25th April 1878.
+
+ISAZISO SIKA JEREMIAH WOODLAND.
+
+  UJEREMIAH Woodland uya zisa ukuba
+  usese Cradock, nokuba kuya kuba luvuyo
+
+kuye ukubona izihlobo zake ezidala zisiza ne-
+ntlobontlobo zemiti aya kuzanana, kwane bo-
+kuva ne scotch kart nezinye izinto.
+
+  J. WOODLAND,
+  Cradock, July 1878.
+
+  73, umi pezu kwe Cwenxa, unamalungelo onke
+  edlelo.
+
+  Onga angatenga kule mihlaba ikankanyiwe-
+  yo makaze atumele kwi ofisi ka Messrs Innes
+  no Elliott, Port Elizabeth, aya kuti kubo aku-
+  fumane konke anga angakwazi ngokutengiswa
+  kwayo nezinye izinto.
+
+  WM. CALDWELL ELLIOTT,
+
+  Omiselwe ukuyikangela,
+
+Port Elizabeth, August 15,1878.
+
+ISIGIDIMI SAMAXOSA, SEPTEMBER, 1878. 7

@@ -1,0 +1,160 @@
+10
+
+ISIGIDIMI SAMAXOSA, FEBRUARY 1, 1888.
+
+  ISINGESI.            ISIXOSA.                            ISIBULU.
+  -------------------- ----------------------------------- -----------------------------------
+  1 Noun.              Igama lento.                        Zelfstandig naamwoord.
+  Proper noun          Igama lalonto yodwa.                Eigene. Zelfstandig ,,
+  Common „             „ Iwentlobo zezinto. Gemeene. ,,    
+  Abstract „           Izaba, ishoxa, isitunzi.            Afgetrokken. ,, „
+  2 Article.           Mpokela.                            Lidwoord.
+  Definite arctile.    Impokela ecalulayo.                 Bepalende lidwoord.
+  Indefinite ,,        Engacaluliyo.                       Onbepalende lidwoord.
+  3 Adjective.         Ubandela. Bijvoeglijke naamwoord.   
+  Numeral adjective.   Inani.                              Telwoord
+  4 Pronoun.           Unobambiso.                         Voornaamwoord.
+  Dem. pronoun.        Ezicalulayo.                        Aanwijzende voornaam- woorden.
+  Impersonal „         Ezingabekisi mntwini.               Onpersoonlijke voornaam- woorden.
+  Personal,,           Ezibekise esiqwini so- mntu.        Persoonlijke voornaam- woorden.
+  Possessive ,,        Ezokuba nento.                      Bezittelijke voornaam- woorden.
+  Interrogative,,      Ezombuzo.                           Vragende voornaamwoor- den.
+  Relative „           Izalamane.                          Betrekkelijke voornaam- woorden.
+  Indef. Adj. „        Eziqukayo.                          Onbepaalde voornaam. woorden.
+  5 Verb.              Diza-nteto                          Werkwoord
+  Transitive verb.     Epumelela entweni.                  Overgankelijke werkwoord.
+  Instransitive „      Engapumeleli ntweni.                Onovergankelijke ,,
+  Auxiliary „          Abancedisi.                         Hulp „
+  Impersonal ,,        Ezidulusileyo.                      Onpersoonlijke „
+  6 Adverb             Umqadi.                             Bijwoord.
+  7 Preposition.       Umalatisi.                          Voorzetsel.
+  8 Interjection.      Intlaba-mkosi                       Tussehenwerpsel.
+  9 Conjunction.       Ikonco                              Voegwoord.
+
+Kuko nezinye intlobo zamazwi esingayikuzingena kuba singaguquli grammar
+ukuyiguqulela kwezi nteto zingentla apa. Sesisuke sabekela kwezizintloko
+nje kodwa, Ako ke namanye amazwi engesingawashiyi kuba efuneka kwa-
+malunga nala sesiwakankanye kade. Ngawo la—
+
++----------------------+----------------------+----------------------+
+| ISINGESI.            | ISIXOSA.             | ISIBULU.             |
++======================+======================+======================+
+| 1 Gender.            | Ayiko (ubuntu buni). | Geslacht.            |
++----------------------+----------------------+----------------------+
+|   Masculine.         | Indoda.              | Mannelijk.           |
+|   Feminine. Neuter.  |                      |                      |
+|   Common.            |   Inkazana.          | Vrouwelijk.          |
+|                      |   Ezingenabom.       |                      |
+|                      |                      |   Onzijdig.          |
+|                      | Equkayo.             |   Gemeenslachtig.    |
++----------------------+----------------------+----------------------+
+| 2 Number.            |   Inani              | Getal.               |
++----------------------+----------------------+----------------------+
+| Singular.            | Into enye.           | Enkelvoud.           |
+|                      |                      |                      |
+| Plural.              | Ngapezu kwesinye.    | Meervoud.            |
++----------------------+----------------------+----------------------+
+| 3 Case.              | Utende.              | Naamval.             |
++----------------------+----------------------+----------------------+
+| 4 Declension.        | Ukucazacaza          | Verbuiging.          |
++----------------------+----------------------+----------------------+
+| 5 Tense.             | Ixesha le            | Tijd.                |
+|                      | diza-nteto.          |                      |
++----------------------+----------------------+----------------------+
+| Present tense        | Ixesha langoku.      | Tegenwoordige tijd.  |
+|                      |                      | Verledene tijd.      |
+| Past ,,              |   ,, Elidluleyo. „   | Toekomende tijd      |
+|                      |   Elizayo.           |                      |
+| Future „             |                      |                      |
++----------------------+----------------------+----------------------+
+
+Soke sipele apo okwanamhla sibe ukwenjenjalo singafuni ukudinisa abalesi
+betu ngokuba ezi zinto kuko abambaIwa abazaziyo, oko kukuti bambalwa
+abazazi nangesi-Bulu bekwambalwa abazazi nangesi-Xosa. Siti kukudinisa
+kuba bambalwa nabakatalele ukuzazi ezi zinto.
+
+UKUCOLACOLA.
+
+OMIWE YINYAMA— Lite elinye lamapepa ase Dayimani kuko indoda entsundu
+ecolwe pakati kwe Du Toitspan ne Kimberley iselifile, kuvele isihlunu
+senyama emlonyeni. Kute kwakufunwa imbangi engaba imbulele lomntu
+kwabonakala ukuba lomntu ubesidla inyama, fanukuba kubeko ilungu
+elibelikulu emqaleni wake ate kunjalo walinga ukuliginya lafika lahlala
+enquleni alehla kwapela, waba unabela inca.
+
+ABABETWE LIZULU—kuvakala ukuba kute nge Cawa ye- sibini ku January,
+kwehla into embi kunene e Debe lika Marela kwati kulemizi ikangelene
+nesikolo eso nganeno komlambo kwehla umangaliso kona. Kutiwa kute kuba
+utywala bamaxosa bekubonakala ukuba bufuna ukulaula nakona, kwabe kuko
+ntokazi (u Nokutyeba) yenze igunya lokusila, yenza utywala nge Cawa,
+ipikisa abakokeli nabadala beremente kuba bekusuke kuti ulutsha luye
+kusela kulondlu yayo nge Cawa zonke, lungazinanzi kanye ityalike, yade
+yayinkohla ukuba kungade kutiweni na kulomntu.
+
+UKOHLWAYWA KWABO.—Kutiwa ke kute nge 14 ka January 1888 zakubon’ukuba
+zipakati inkonzo, laye ikaba eliselayo liyawaye kulatyalike yotywala
+inxenye, kwaye kuxa lendlu yale ntokazi isel’isiti qu ngumsi, isel ipeka
+isopula, ipozisa izidudu kukubi, suke lahloma Iona izulu xa ingabantu
+abasitoba ngosana kulondlu.
+
+UKUHLA KWENDUDUMO.—Kutiwa kute ke kusenjalo, kwavakala isitonga
+sendudumo esibete kwashukuma nomhlaba, silandela umbane owati menye
+ngohlobo olwabeta abantu ababonana, kwasuke, kwaluhlaza, kwabomvu
+kwalandela esi sambantlanya sendudumo. Kute emva kwaso, kwabonakala
+kusitsha landlu yala ntokazi, kwabe kunjalo nje kungabonakali namntu
+upumayo kulondlu.
+
+UKUTUTWA KWABANTU.—Kute kwakuba mzuzu, kwa- bonakala kupuma umntu
+oyinkazana erwiqiliza into eyilahla pantsi, abuye angene kwakona, apume
+kwanenye, alike ayilahle pantsi kwa ngolohlobo, kanti ke lonto ngabantu
+abafileyo inxenye. Ngokufutshane kwafa abantu abatatu basinda
+abatandatu.
+
+IMIVUMBO YESADLA— Kutiwa ke londlu yatsha ye nqu kunye nempahlana yayo
+kwanazo zonke ezozidudu. Kutiwa unyana walomfazi waba nenxeba entloko
+laza kutigqi entla kwe hleza, waza wabetwa kunene ngesandla esiminwe
+mihlanu kuwo wonke umzimba. Kube njalo kubo bonke abobantu bafileyo
+kwanabasapilileyo babetwe kunengesandla esingabonakalanga kodwa esishiye
+imivumbo eyimidondosholo efike yabonwa ngabantu bonke. Kutiwa kude kwati
+kule nkazana ingumnikazi ndlu, kwabonakala nezifanya zeminwe
+ezintlafunweni, kwade kwabetwa nosana olo kunene, noko lusindileyo.
+Nabanye banawo amanxeba nemida.
+
+ISOHLWAYO SOTYWALA E XUKWANE.—Kutiwa into enje ngale ihle e Debe yake
+yehlela abantu base Xukwane kwa ngepike elikwa nje lokupikela ukwenza
+utywala kwange mini ye Sabata. Wake wati u Dywaba into yasema Giqweni
+yapikisana nomteto wasesikolweni, eyayitembisi ukuba iya kuwululamela
+mhlana yacela indawo esikolwene apo. Ute ke u Dywaba lowo kwa nentokazi
+apa engevayo ebeku tiwa ngu Nomvanda, basuke bapikelana nokwenza imitayi
+yendywala nge Cawa bangavumi nokuya etyalikeni. Bayeke ababantu bemana
+betetiswa ngomdala wakona nge- loxa (u Mr. Matayo Dungela), bade
+bangxola no Shiyani ukuba ebabizela etyalikeni. Kuteke nga Cawa itile
+leyo kanye bagxota ngayo u Shiyani egxotwa ngu Makwenkwe umninawe ka
+Dywaba, owati yena akakatali nayityalike nangumteto wasesikolweni.
+Kuteke ngalo Cawa, lasibekela izulu ukumka komhla kwati menye umbane
+owoyikekayo, kwalandela isitonga esabeta kwakala namahashe, labeta
+ihamile zone zika Makwenkwe, kwapalazwa nezidudu nendywala, zade
+zaqekezwa nezo mbiza kwa Dywaba nakwa Nomvanda, kwade kwayakubetwa
+nasemasimini ka Nomvanda ekude le, pantsi ko Hlatikulu, yabeta imizi
+yabo yesisitshu kwa kunye nokudla kwabo. [Utywala buyateta ngokwabo kuba
+bunomlomo wokuzitetela kubo bonke abanenkani.—ED. Sigidimi.]
+
+UKUBETWA LIZULU KWAKONA.—Ati amapepa kute e St. Luke’s Mission
+amakwenkwe amatatu esenga estalini xa lidudumayo, kwabetwa enye yafa,
+asinda cebetshu amabini
+
+KWAKONA KWA IZULU.—Kutiwa kute e Barberton u Mr. E. Verity esahleli
+endlwini yake, ekwakona no Mr. A. T. Brook, watsho kona umbane, yatsha
+yonke impahla ebikulondlu, zasinda kodwa iziqu zabantu.
+
+UBUDLWENGU OBUBI.—Liti ipepa lase Johannesburg kuke kwako ityala
+lokudlwengula ematyaleni akona. Kutiwa kuko um-Zulu odlwengule
+umlungukazi, umfazi womqubi we engine. [Izidlwengu ziya zisanda.—ED.
+Sigidimi.]
+
+IMAMBANE EZIMBINI.—Kutiwa kute esitoreni sika Mr. Rae, kwangena imambane
+ezintsundu, zafike zabiza ukutya, zafike zakudla mpango-pango. Kute emva
+koko kwabizwa imali yoko kudla, yasel’itsiba pandle enye imambane, yati
+enye yasel’iluvala ucango iziposa kwesi sicaka salendlu,
+yangamaduntsu-duntsu. Yabanjwa ke leyo indodana yadliwa iponti, iti
+ukuba ayinayo ihlale iveki ezintatu entangeni.

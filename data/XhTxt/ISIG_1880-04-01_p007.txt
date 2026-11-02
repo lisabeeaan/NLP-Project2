@@ -1,0 +1,230 @@
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le landela leyo                      | 0    | 5  | 0 |
+|                                                   |      |    |   |
+| Ibaso Le yona Ngobozi ye ziqamo ezomisiweyo       | 0    | 10 | 0 |
++===================================================+======+====+===+
+| Elo kuqala Ibaso Le yona Nyama ye hangu           | 10   | 0  |   |
+| yomisiweyo (icala) 1                              |      |    |   |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ La landela leyo                      | 1    | 0  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le yona Nyama ye hangu           |      |    |   |
+| yomisiweyo                                        |      |    |   |
++---------------------------------------------------+------+----+---+
+|   (umlenze) ...                                   | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le landela leyo                      | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+|   IMPAHLA YE NDLU.                                |      |    |   |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le yona Nqayi ilungileyo         | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le landela leyo                      | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le yona Gxebeka yomti ilungileyo | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le landela leyo                      | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le lo Kuko oluhle                | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le lolu landela olo                  | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le yona Ngobozi intle            | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le leli landela leyo ...             | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le Tunga lemizi elihle           | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le lilandela elo                     | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le Sitebe esi lungileyo          | 0 10 | 0  |   |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le si landela eso                    | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le lo Mnyani olungileyo          | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le lo landela lowo                   | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le le Selwa eli panjwe kakuhle   | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le li landela elo ...                | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+| „ Lo wona Mnyazi mhle                             | 0    | 10 | c |
++---------------------------------------------------+------+----+---+
+| „ Lo wona Mnyazi uvatisiweyo                      | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le Iona Q'aga loku gwada         | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le lilandela elo ...                 | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le yona Nqawa intle              | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le landela leyo ...                  | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le yona Ntluzo yo bisi intle     | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini ,, Le landela leyo                     | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+| INGUBO.                                           |      |    |   |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le Lokwe yo Mntwana              | £1   | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le landela leyo                      | 1    | 0  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Lo Mtungo omhle                  | 1    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Lo landela lowo ...                  | 1    | 0  | 0 |
++---------------------------------------------------+------+----+---+
+| „ Amabaso amane ento eza hluka hlukileyo          | 3    | 0  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Lo Mqwazi omhle                  | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Lo landela lowo                      | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+| „ Le nto yoku homba evatiswe nge ntsimbi          | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Lo Mnweba omhle nokuba ngowo     |      |    |   |
+| lusu                                              |      |    |   |
++---------------------------------------------------+------+----+---+
+|   Iwanina                                         | 1    | 0  | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Lo landela lowo                      | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| INQWELO.                                          |      |    |   |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le yona Nqwelo ilungileyo        | £1   | 10 | 0 |
+|                                                   |      |    |   |
+| Ele sibini ,, Le landela leyo                     | 1    | 0  |   |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le yona Nqwelo yama Hashe, nama  | 10   | 0  |   |
+| Hashe ayo emabini ... ... ... ... 1               |      |    |   |
++---------------------------------------------------+------+----+---+
+| Ele sibini ,, Le landela leyo ikwa nama Hasheayo  | 1    | 0  | 0 |
+| ...                                               |      |    |   |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le sona Scotch Cart silungileyo  | 1    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini ,, Le silandela eso ... ... ...        | 1    | 0  | 0 |
++---------------------------------------------------+------+----+---+
+| EZO KU LIMA.                                      |      |    |   |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le Kuba elihle                   | 1    | 0  | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini ,, Le landela elo                      | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le Ere (harrow) elungileyo       | 1    | 0  | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le landela leyo                      | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| UBUNGCIBI BABA NTSUNDU.                           |      |    |   |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le yona nto intle yenziwe ngu    | £5   | 0  | 0 |
+| Mcweli                                            |      |    |   |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le landela leyo                      | . 3  | 0  | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sitatu „ Le landela eye sibini                | . 2  | 0  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala ibaso Lo wona Msebenzi ulungileyo wo   | we   | 0  | 0 |
+| Mkandi Ntsimbi                                    |      |    |   |
+|                                                   | 3    |    |   |
++---------------------------------------------------+------+----+---+
+| Ele sibini ,, Lo landela lowo ... ... ...         | . 2  | 0  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibeso Le zona Zihlangu zilungileyo     | . 1  | 0  | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le zilandela ezo ... ...             | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+|   O WABE MEUNDO                                   |      |    |   |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Lo kona ku Bala ngo Siba, noku   | 0    | 0  |   |
+| fanekisa nge                                      |      |    |   |
+|                                                   |      |    |   |
+| Pencil ... ... ... ... ... 1                      |      |    |   |
++---------------------------------------------------+------+----+---+
+| Ele sibini ,, Lo landela oko                      | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+|   EZASE NDLWINI.                                  |      |    |   |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso. Le Ponti ye Zibane ezihle       | £0   | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le zilandela ezo                     | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso. Le Ponti ye Sepa ilungileyo     | 0    | 10 | 0 |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le landela leyo ... ...              | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+| Elo kuqala Ibaso Le Iona Q'aga lihle le Gwada ... | 0    | 10 | 0 |
+| ...                                               |      |    |   |
++---------------------------------------------------+------+----+---+
+| Ele sibini „ Le landela elo                       | 0    | 5  | 0 |
++---------------------------------------------------+------+----+---+
+
+I GOVAN BURSARY.
+
+KUYA ziswa ukuba kuya kubako i Bursary ezi mbini, eyoku qala zi £10,
+eyesi bini zi £5; zombini ke, zezo mnyaka omye. Ziya ku gqatselwa ngawo
+lo umnyaka.
+
+Izimiso zezi:—
+
+1.  I Bursary ezi, zivulelwe udodana Iwama bala ouke, aba lukolo lulolwe
+    Protestant, baze nange zinye indlela ba nyuleke.
+
+2.  Aba Ngeni abaza ku viwa mababe sebe lu gqitile olu viwo loku
+    ngeniswa, lwase Lovedale.
+
+3.  Aba Ngeni maba vunywe kuqala yintlanganiso yaba Pati be Mali, na yi
+    Education Board yase Lovedale.
+
+4.  Aba Ngeni botumela ama gama abo ngepepa, kunye ne saziso sesi milo
+    sabo esi kolekayo, ku Rev. J. D. Don, o gama libekwe apa, kungabi
+    ngapantsi kwe nyanga, pambi kwe mini yo viwo.
+
+5.  Uviwo luya kwenziwa ngoku bala ema pepeni; luya kuba se Lovedale nge
+    veki yesi bini ka August, 1880.
+
+6.  Aba zifumeneyo i Bursary baya ku funda e Lovedale, nge xa aba se
+    nazo.
+
+7.  Zinga hlutwa ezi Bursary ngo ku swela isimilo aba ba nazo. Aba gwebi
+    balonto baya kuba, ngaba Gcini be Mali ne Education Board yase
+    Lovedale.
+
+Izinto zo Viwo.
+
+(3.) Uku xela ngo kuma komhlaba (Descriptive Geo­graphy).
+
+(4.) Imbali ye Great Britain, kususela kwi 1603 kude kuze kuba kweli
+xesha.
+
+8.  .) Ukuzazi izi Balo ; kweyo I. neye II. ka Samuel; ne Zenzo zaba
+    Postile.
+
+King Williams Town, February 23, 1880.
+
+ISAZISO.
+
+INTLANGANISO ye Titshara zapesheya kwe Nciba, iya kubako e-Blythswood
+ngomhla we 10 ku April, 1880, ngexesha le 11, (11 o’clock). Siya kuvuya
+ukuzi- bona zonke, ngalomhla wesiseko.
+
+DANISO BULUBE, Bulube’s Location,
+
+  Near Butterworth, Fingoland.
+
+APO ABANTU BAFUNWA KONA..
+
+KWI ofisi ye Mantyi, kufunwa umtoliki, osaziyo isi Xosa, abe ngoya
+kuhlala imini yonke xa afunwa ngu Mantyi.
+
+Imali ngomnyaka wokuqala iyakuba ziponti ezi ngama shumi omahlanu (£50).
+
+Ofuna ukupendula esi Saziso, maka bekise incwadi yake kwi Editor,
+Isigidimi, Lovedale.
+
+UMHLABA OTENGISAYO.
+
+KUKO umhlaba e-Debe otengisayo. Ubukulu bawo buzi akire eziliwaka eli
+nama kulu osi xenxe. Ofuna ukuva ngawo, nokuba linani lawo, nokuba
+kukuma kwawo, angaziva ezondawo ku Dr. Stewart, e-Lovedale.

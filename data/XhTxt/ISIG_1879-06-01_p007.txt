@@ -1,0 +1,307 @@
+EZASE MARKENI.
+
+E-BAYI.
+
++-----------------------------------------------+------------+-------+---------+----+---+
+| Umbona nge ngxowa ...                         | ... 30     | 0     | ne      | 36 | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Amazimba „                                    | ... 20     | 0     | 55      | 60 | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Umgubo „                                      | ... 32     | 0     | »       | 40 | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Itapile „                                     | ... 30     | 0     | 59      | 39 | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Irasi nge 100 lbs                             | ... 25     | 0     | 55      | 28 | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Isikumba senkomo nge lb                       | ... 0      | 3     | 99      | 0  | 3 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Esegusha sisinye                              | ... 0      | 6     | 99      | 2  | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Esebokwe „                                    | ... 1      | 9     | 59      | 3  | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Esetole „ ...                                 | ... 2      | 0     | »       | 10 | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Iplanga ngonyawo                              | ... 0      | 6     | 59      | 0  | 9 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Uboya begusha...                              | ... 1      | 4     |         | 0  | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Uboya beseyi bokwe ...                        | ... 1      |       | »       | 0  | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Intsiba zenciniba                             | ... 20     | 0     | 99      | 29 | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+|   E-QONCE                                     |            |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Umbona nge ngxowa ...                         | ... 17     | 0     | ne      | 25 | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Itapile ,, •••                                | ... 26     | 0     | 99      | 35 | 6 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Amazimba „                                    | ... o      | 0     | 55      | 18 | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Umgubo „ „                                    | ... 20     | 0     | >5      | 26 | 9 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Ihabile nge 100 lbs                           | ... 0      | 0     | 95      | 25 | 6 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Isikumba segusba                              | ... 1      | 0     | 55      | 0  | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Isikumba senkomo nge lb                       | ... 0      | 0     | 55      | 0  | U |
++-----------------------------------------------+------------+-------+---------+----+---+
+|   I-RINI.                                     |            |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Umbona nge ngxowa ...                         | ... 0      | 0     | ne      | 42 | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Amazimba „                                    | ... 0      | 0     | 55      | 0  | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Umgubo „                                      | ... 0      | 0     | >9      | 36 | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Itapile „                                     | ... 0      | 0     | 55      | 54 | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Irasi nge 100 lbs                             | ... 0      | 0     | 55      | 12 | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Imbotyi „ ...                                 | ... 20     | 0     | 55      | 25 | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Ihabile „ ...                                 | ... 6      | 6     | 55      | 7  | 6 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| E-FORT BEAUFORT.                              |            |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Umbona nge ngxowa ...                         | ... 14     | 0     | ne      | 16 | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Amazimba „                                    | ... 0      | 0     | 55      | 0  | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Umgubo „                                      | ... 0      | 0     | 95      | 0  | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Irasi nge 100 lbs                             | ... 10     | 0     | 55      | 12 | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Ihabile „                                     | ... 1      | 6     | 55      | 2  | 6 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Itapile nge ngxowa                            | ... 0      | 0     | 55      | 0  | 0 |
++-----------------------------------------------+------------+-------+---------+----+---+
+| IMALI YENQWELO EZISUKA                        | E-BINI.    |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+|   s. d.                                       | 8.         | d.    |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| E-Alice ... ... 0 0                           | ne 3       | 0 nge | 100 lbs |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| „ Aliwal North ... 0 0                        | „ 10       | 0     |         | 55 |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| „ Adelaide ... 0 0                            | „ 3        | 0     |         | 55 |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| „ Bedford ... 0 0                             | » 3        | 6     |         | 55 |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| „ Burghersdorp ... 10 0                       | „ o        | 0     |         | >5 |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Bloemfontein ... 0 0                          | » 17       | 0     |         | 55 |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| „ Cradock ... 5 6                             | „ 6        | 0     |         | 55 |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| „ Colesberg ... 0 0                           | „ o        | 0     |         | 55 |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| „ Dordrecht ... 0 0                           | „ o        | 0     |         | 55 |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| „ Fort Peddie ... 0 0                         | 2          | 0     |         | 55 |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| „ Fort Beaufort ... 0 0                       | „ 2        | 9     |         | 55 |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| „ Hopetown ... 0 0                            | „ o        | 0     |         | 55 |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| „ K. W. Town ... 0 0                          | „ 3        | 6     |         | 55 |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| „ Middelburg ... 0 0                          | „ o        | 0     |         | 55 |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| ,, Port Elizabeth ... 0 0                     | 2          | 0     |         | 55 |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| „ Port Alfred ... 0 8                         | „ o        | 9     |         | 55 |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| „ Queenstown ... 5 0                          | „ 6        | 0     |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| „ Somerset ... 0 0                            | „ o        | 0     |         | 55 |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| „ Diamond-fieldi O 0                          | „ ²⁰       | 0     |         | 9» |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+|   OFUNAYO.                                    |            |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Gwali Farm, April 28, 1879.                   |            |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| MHLELI we Siyidimi Samaxosa ndiyakubo-        |            |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| ngoza nkosi yam ukuba undifakele elipepa      |            |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| lam esi Gidimini Samaxosa. Mawetu             | nonke      |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| nina namkela Isigidimi ndiyabuzisa kuni, ndi- |            |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| yafuna umfo wakowetu                          | ogama lake | lingu |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Ndwandwa Makapela imfengu yase Mabeleni.      |            |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Wemkayo ekaya inyanga zilishumi ke asimazi    |            |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| nokuba upina asizanga sive nendawo akuyo.     |            |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Ngoko zihlobo zam owaka weva igama elinjalo   |            |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| lingavuya esazisile ; nokuba ngokubala        | indle-     |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| ko yencwadi ndoyihlaula. Ngu Ndwandwa         |            |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Makapela.                                     |            |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| Ofunayo ndim,                                 |            |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+| HAIHAI MAQUBELA.                              |            |       |         |    |   |
++-----------------------------------------------+------------+-------+---------+----+---+
+
+IMALI EROLIWEYO IBATALELA
+
+  ----------------- ---------------
+  Igama.            Umlambo.
+  Mr. S. Makiwane   Transkei
+  Rev. C. Taberer   Keiskama Hoek
+  Mr. A. Cobus      Mount Arthur
+  „ G. Hlongwane    99
+  „ P. Rasmeni      99
+  „ H. Vanqa        99
+  „ B. Mcitakali    99
+  „ S. Manqolo      Butterworth
+  ----------------- ---------------
+
+ISIGIDIMI ” NGO MAY, 1879.
+
+Ihlaulelwe. Inani.
+
+  ------------ ------- ---
+  June 1877    £0 10   0
+  Dec., 1878   0 8     0
+  „ 1877       0 4     0
+  Nov., 1878   0 4     0
+  Dec., 1879   0 2     0
+  99 99        0 2     0
+  99 99        0 2     0
+  99 99        0 3     0
+  ------------ ------- ---
+
+“ISIGIDIMI SAMAX0SA.”
+
+  PEPA lendaba lishicilelwa e-Lovedale—ngenyanga zonke.
+
+Lirolelwa ngomnyaka isheleni ezintatu (3s) ukuba litunyelwa ngeposi (4s)
+xa
+
+lingarolelwanga kwamaqala—zibe zisheleni ezintlanu (5s).
+
+Ngokutunyelwa kwe mali; kubatabati be Sigidimi kuko abaman’ ukukala
+ngokuti
+bengahlauli nje kungokuba bengenaqinga lokuyi tumela imali. Indlela
+ekunokwenziwa
+ngazo zimbini. Enye kukutumela izitampu. Enye neyona iqinisekileyo
+kukuya kuyinika
+lomali kumntu okufupi ogcina incwadi zeposi aze ke yena anikele ipepa
+abati ukulibiza
+yimali yeposi, (post office order) ukuze ke umntu atumele Lona ku Mr. J.
+Wilson.
+Umgcini posi lowo uya abize itiki ukuba imali eza kutunyelwa iyi ponti
+mhlaumbi inga-
+pantsi kwayo. Indawo egqitiseleyo ngokulunga kolu uhlobo lokutumela
+imali kukuba xa
+ilahlekileyo angabuye umntu aye kufuna elinye ipepa ngapandle kokubuya
+ahlaule.
+
+ISAZISO SAKWA RULUMENTE.
+
+NO. 400, 1879.
+
+  Sipuma kwi Office Yompatiswa Mihlaba Yakomkulu, nemicimbi yezizwe
+  zonke, e- Cape of Good Hope.
+
+  April 9, 1879.
+
+  GENGXELO yesenzono. 14, somnyaka
+  we 1878 kuyaziswa apa, kuyo yonke
+
+into engumntu, okokuba iziqwenga zemihla-
+ba yakomkulu ezikumandla wase Qonce
+(King Wm’s Town) kweli fudula ilelakwa
+Ngqika, ziyakutengiswa kwinto yonke pa-
+mbi kwe Office Yemantyi yase Qonce nge-
+xesha lakusasa (10 o’clock) Ngolwesitatu
+ngomhla wa 23 ku July, 1879, njengoko
+sekuxelwe ngako kuso Isenzo nange Saziso
+sakwa Rulumente No. 668 esabalwa ngo-
+mhla we 8 ku August 1878 sixelelwa into
+yonke. Kanjako zotengiswa ezoziqwenga
+ngeminqopiso ekoze kunqotshiswane ngayo
+ngemini yentengiso.
+
+Eso, neso, isiqwenga sotengiswa kumiswe
+nenani esiyakurafelwa ngalo ngonyaka. Ke
+eyona ndoda ite yagalela kunamanye, yaza
+kanjako ayabeta nganeno koko ifuneka nga-
+ko irafu yomhlaba, iyakuba ngumnini weso
+siqwenga kwamhlana ite yasitenga; yonke
+ke into ete yatenga lomini uyakunyanzelwa
+okokuba iti kwalapo iyibatale irafu yomnya-
+ka wokuqala, ize iti eyeminyaka emibini ela-
+ndelayo yenze iziqiniselo pambi ko Mantyi
+zokutembisa ukuba yoyirola lomali. Koti
+kodwa ukuba ite indoda yati kwaoko yaseli-
+rola kwi Mantyi irafu yeminyaka emibini
+ingabi sabala ziqiniselo. Indleko zokuca-
+nda nokumisa ibakana, nendleko ze siqiniselo
+(Title Deed) nokubekwa kwe Stamp, nemali
+erolwa e-Offisini, ishumi elinambini leshelani
+eline tiki (12s 3d), zonke ezondleko ize zi-
+batalwe ngumtengi mhlana awutengayo
+umhlaba. Abatengi ke mabeze entengisweni
+sebe zilungiselele indleko zokucanda umhla-
+ba nokumisa ibakana ; mabeze kanjalo ifa-
+nele imali yokuwubatala umhlaba neyerafu.
+
+Woti ke umtengi akukova ukubatala, aku-
+
+zifumana iziqiniselo zokuba wayibatala irafu, amkele isiqiniselo (title)
+somhlaba wake ne- se rafu kulomhlaba wake, esiya kuti ke eso serafu
+ukuze sime kuye aman’ ukusikulula esibatalela inxalenye ngonyaka
+njengoko kuxeliweyo kwisiqenqu (Section) se VI se- sisenzo (Act).
+
+Imifanekiso yalemihlaba ukucandwa kwa- yo, nendlela eyakutengiswa ngayo,
+kunye nesaziso sakwa Rulumente No. 668, 1878 yofunyanwa kwi Office
+Yomongameli Noca- nda (Surveyor General) e-Kapu, nakwi Mantyi zase
+Qonce, nase Monti, nakwa Ko- mani (Queen’s Town) nase Bofolo (Eort
+Beaufort) nakwa Daliwe (Cathcart.)
+
+JOHN LAING.
+
+Umpatiswa.
+
+ISAZISO.
+
+  UFUNEKA Ititshere ezintatu, inani lemail
+  ngangoko libafaneleyo, ngokwe mfunpo
+
+  yabo. Izimilo zabo zifuneka ngoku, zibalele
+  kumfundisi u-Rev. Wm. Murray, Ugie St.
+  John’s Territory, via Umtata.
+
+ISAZISO.
+
+  WISIKOLO esikulu (Institution) sase
+  Mgwali wase Batenjini (Clarkebury) ku-
+
+  funeka umntu ontsundu okwaziyo ukutunga
+  izihlangu. Unga angangumntu onesimilo.
+
+Balela ku W. H. Conyebur okweso sikolo,
+
+P. HARGREAVES.
+
+ITITSHERE EZIFUNEKAYO.
+
+  UFUNEKA ititshere ezintlanu kwizikolo
+  zalapa. Ezona zinqweneleka ngapezulu
+
+zezineziqiniselo nezitshatileyo. Imali erolwa-
+yo iya kususelwa kwi £30 kude kube £50 nje-
+ngokufunda kwetitshere.
+
+W. S. DAVIS.
+
+Shawbury, (Bencuti) April 2,1879.

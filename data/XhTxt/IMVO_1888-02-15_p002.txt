@@ -1,0 +1,671 @@
+  Igama lomniniwo
+
+  Ekuqaleni.
+
+Intsimi.
+
+Isiza.
+
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 108 | Philip Gxiki ... do | 7th November, 1876 | 2682 | 1    | E   | ..   | BB      |      |
+|     |                     |                    |      |      |     |      |         |      |
+| 109 |                     |                    | 2804 |      |     |      |         |      |
++=====+=====================+====================+======+======+=====+======+=========+======+
+|     |                     | 23rd               | do   |      |     |      |         |      |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 110 | Philip Uganda       | 7th                | do   | 2683 | 2   | E    | ...     | • •• |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 111 | do                  | 23rd               | do   | 2791 |     |      | 16      | A A  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 112 | John Philip ...     | 7th                | do   | 2684 | 3   | E    | • ••    | •••  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 113 | do                  | 23rd               | do   | 2815 |     | • •• | 19      | B B  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 114 | Magagese            | 7th                | do   | 2690 | 2   | F    | . •••   | ...  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 115 | do                  | 23rd               | do   | 2809 |     | • •• | 16      | B B  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 116 | Stoney Pitse ...    | 7th                | do   | 2703 | 3   | H    | •••     |      |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 117 | do                  | 23rd               | do   | 2873 |     |      | 22      | 11   |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 118 | Philip Ngixi ...    | 7th                | do   | 2709 | 2   | i    |         |      |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 119 | do                  | 23rd               | do   | 2807 |     |      | ii      | B B  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 120 | Joel Tele           | 7th                | do   | 2710 | 3   | i    |         |      |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 121 | do                  | 23rd               | do   | 2832 |     |      | 21      | C C  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 122 | Benjamin Tele       | 7th                | do   | 2711 | 4   | i    | • ••    |      |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 123 | do                  | 23rd               | do   | 2833 |     | ...  | 22      | 0 c  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 124 | Robert Kona ...     | 7th                | do   | 2712 | 5   | I    |         |      |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 125 | do                  | 23rd               | do   | 2799 |     |      | 5       | B B  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 126 | Samue1 Ndebo        | 7th                | do   | 2716 | 2   | J    |         |      |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 127 | do                  | 23rd               | do   | 2866 |     |      | 11      | II   |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 128 | Jeremiah Nene       | 7th                | do   | 2717 |     | J    |         | ...  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 129 | Jeremiah Nene       | 23rd               | do   | 2871 |     |      | 16      | I I  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 130 | Alick George        | 7th                | do   | 2722 | 8   | , J  |         |      |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 131 | do                  | 23td               | do   | 2849 |     |      | 2       | E E  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 132 | Sante Vena ...      | 7th                | do   | 2725 | 3   | K    | ...     | ...  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 133 | do                  | 23rd               | do   | 2857 |     |      | 2       | I I  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 134 | Maclean Daniel      | 7th                | do   | 2736 | 6   | L    |         | • •• |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 135 | do                  | 23rd               | do   | 2840 |     | ...  | 7       | D D  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 136 | John Jongudisa      | 7th                | do   | 2739 | 1   | M    |         |      |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 137 | do                  | 23rd               | do   | 2830 |     | ...  | 16      | C 0  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 138 | Johnston Kotso      | 7th                | do   | 2740 | 2   | M    |         | ...  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 139 | do                  | 23rd               | do   | 2862 | ... | ...  | 7       | 11   |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 140 | John Kinti          | 7th                | do   | 2759 | 5   | o    |         |      |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 141 | do                  | 23rd               | do   | 2864 |     |      | 9       | i i  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 142 | Mark Mbava ...      | 7th                | do   | 2762 | 8   | 6    |         |      |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 143 | do                  | 23rd               | do   | 2838 |     |      | 5       | b b  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 144 | Mana Umfundywa      | 7th                | do   | 2763 | 1   | p    |         |      |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 145 | do                  | 23rd               | do   | 2776 |     |      | 9       | j j  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 146 | Matiyo Facana       | 7th                | do   | 2766 | 4   | p    |         |      |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 147 | do                  | 23rd               | do   | 2768 |     |      | i       | jj   |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 148 | Papa Wildeman       | 7 th               | do   | 2767 | 5   | p    |         |      |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 149 | do                  | 23rd               | do   | 2846 |     |      | 14 _(t) | D D  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 150 | Frederick Mbaimbai  | 7th                | do   | 2660 | 3   | A    |         |      |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 151 |                     | 23rd               | do   | 2784 |     |      |         | A A  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 152 | Maclean Dyebi       | 7th                | do   | 2671 | 2   | c    |         |      |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+| 153 | do                  | 23rd               | do   | 2802 |     | ••   | 8       | B B  |
++-----+---------------------+--------------------+------+------+-----+------+---------+------+
+
+Iveki
+
+E STEYYNSBURG ngo-Mgqibelo ongapaya kwedluleyo umlungu ongu D. J. Ross
+wazi- nqumla uqoqoqo ete piti. Watsho inxeba elilukuzayo emehlweni
+kubonakala pofu noko okokula angancedakala. Inxeba elo litu- ngwe
+labotshwa kwangoko ngu Mr. T. Gunning umenzi wezihlangu. Ute ngo-
+kuhlwa, ebehleli nezihlobo zake, ezifundela kwipepa lendaba, wati
+makanikwe isaga sake. Ute xasinikwayo yapel’ into ebitetwa. Kwatiwa
+unikwe iyeza elidlule emgceni laza lambulala. Waselebanjwa u Mr. Gunning
+lowo umntu, obempe eloyeza.
+
+KUKO Abesutu ekutiwa bacele indlela kn Sir Marshall Clark yokuya kuma
+kwe- lama Mpondo.
+
+NGEVEKI engapaya kwegqitileyo kelawa kwezo Kwahlamba, elundini. Asinto
+iqe- lekileyo ukuwa kwalo kwakulamaxesha.
+
+ELUSUTU inxhnwa yenqholowa itengwa Dgesheleni zombini (2/).
+
+NGASE Debe (kwa Marcia) kuko inkwe- nkwana encinane yomlungu eyahlatywa
+lilanga ngaIo-Mgqibelo upambi kwogqiti- leyo yafa yangcwatya nge-Cawa.
+
+E CUMAKALA ngosuku lwe 23 March oza o kuyakubako umdyaro wamahashe kwatu
+kubaleka kwabantu. Lixesha aba- tandayo ukuba balungiselele.
+
+PAKATI kwemiti ebalulekileyo ebonwe ngu Mpatiswa-Mihlaba nemisebenzi
+yako- mkulu emahlatini imingculuba etyaliweyo yiuto eukulu. Ityalelwa
+ukuze amagatya ayo atungwe in.inyazi.
+
+IPEPA lase Mtata libalisa ngomfo etna X"sibeni owati akunukwa,
+waselesiya kuzixhoma ngentambo emtini. Safunyanwa isidumbusake
+silengalenga emtini.
+
+AMANZI ecibi ekntiwa yi Mono, e Nevada anesepa, ne Borax, nezinye
+intsimbi. Isiziba esincholileyo nesinamafnta sihlanjululwa ngokusuke
+sitiwe nxu emanzini apo sika- nywe nje kupela.
+
+AMAGAMA angeneyo kwisitili se Komani amalunga namakulu osibhozo.
+Ngxatsho ke nto zakowetu.
+
+IGQIRA lempahla ehambayo lokomkulu liwnncoma kakula umteto wokupiliswa
+kwe Bhula ezigusheni ne bhokwe. Libe like latyelela Lake lezakuti ga
+ngeli lasema Xhoseni, lada laligqiba lonke eli linalomte- to.
+
+ITIALA elis^(:)ntsompoti le lomfo abati ngu James Nolan, nmlungu. Yehla
+lento malunga nosuku lwe 22 Jan. Lomlungu ufike kumutu ontsundu ati
+makamboleke inkwenkwana yotnkake uya e Philadelphia uyakubuya ngoknhlwa,
+avume ke omnye. U Nolan nbnye yedwa wati umntwana lowo nanku esiza,
+wobehle afike naye. Hayi aka. fika umntwana kwada kwakusasa. Waselezi-
+qubula intonga u Mr. John Basson wahlaba enqineni, wawutabata umkondo
+wabo kwasendlwini. Ute emva kokuba eke waman’ ukulahlekana nomkondo wabo
+wada wayakuwufaka kwisihlanjana, wasifumana apo isidumbu somntwana,
+kubonakala uku- ba ubepetwe gadalala, zikwako nenyawo ezifaniselwa
+kwezika Nolan ngamacala omabini esosidumbu. Into ebangele ukuba ikangala
+elingaka lomfo eliminyaka ima 22 ubudala lenze lento embi kangaka
+kumntwana omnoinane, isayakuvela ema- tyaleni.
+
+SIVA emapepeni okokuba kwiveki epelile- yo u Nkosi Nqwiliso wase ma
+Mpondweni waye sifa, enesisu segazi. Sekuko abanu. kiweyo. Omnye
+udutyulwe entanyeni zadliwa inkomo zake ngokuba enukiwe. Abanye bele nge
+hlati.
+
+Ixesha lokunikwa
+kwe Taitile.
+
+Ukucazwa ko mhlaba.
+
+Ubukulu.
+
+Apo ikona.
+
+Irafu ese
+lityala.
+
+Le rafu ilityala
+iqala ngo.
+
+Wagqityelwa akweli
+gama.
+
+             A.        R.    p.                            
+  ---------- --------- ----- ---------- -------- --------- -----------------
+  Peuleni.                   33 865     0 17 6   do 1880   Philip Gxiki.
+  do         6 3496                     3 10 0   do        do
+  do                         33 865     12 6     do 1878   Philip Umganda.
+  do         63496                      4 10 0   do        do
+  do         ...       ...   1 33 865   0 17 6   do 1880   John Philip.
+  do         63496                      3 10 0   do        do
+  do                         ’33-865    12 6     do 1878   Magagese.
+  do         63496                      4 10 0   do        do
+  do                   ...   33 865     12 6     do        Stoney Petao.
+  do         63496                      4 10 0   do        do
+  do         • ••            33-865     0 12 6   do 1882   Philip Ngixi.
+  do         63496                      2 10 0   do        do
+  do                         33 865     0 17 6   do 1880   Joel Tele.
+  do         6-3496                     3 10 0   do        do
+  do                   ...   33 865     0 17 6   do        Benjamin Tele.
+  do         6-3496                     3 10 0   do        do
+  do                         33 865     0 17 6   do        Robert Kono.
+  do         6-3496                     3 10 0   do        do
+  do                         33-865     1 0 0    do 1879   Samuel Ndebo.
+  do         63496                      4 0 0    do        do
+  do                   ...   33-865     0 12 6   do 1882   Jeremiah Nene.
+  do         6-3496                     2 10 0   do 1882   Jeremiah Nene.
+  do                         33 865     12 6     do 1878   Alick George.
+  do         63496                      4 10 0   do        do
+  do                         33 865     12 6     do        Sante Vena.
+  do         6-3496          ...        4 10 0   do        do
+  do                         33-865     0 15 0   do 1881   Maclean Daniel.
+  do         6-3496                     3 0 0    do        do
+  do                         33 865     12 6     do 1878   John Jongudisa.
+  do         6'3496                     4 10 0   do        do
+  do                         33 865     12 6     do        Johnston Kotso.
+  do         6-3496                     4 10 0   do        
+  do         • ••            33 865     12 6     do        
+  do         6 3496                     4 10 0   do        
+  do                         33 865     10 0     do 1879   
+  do         6 3496                     4 0 0    do        
+  do                         33 865     I 0 0    do        
+  do         578466                     4 0 0    do        
+  do                         33 865     12 6     do 1878   
+  do         571466                     4 10 0   do        
+  do                         33-865     0 15 0   do 1881   
+  do         6 3496                     3 0 0    do        
+  do                         33 865     0 17 6   do 1880   
+  do         6-34961                    3 10 0   do        
+  do                         33 865     0 17 6   do        
+  do         6-3496    ...              3 10 0   do        
+
+E BEREA, ngase Barberton, kwele golide, umlungu otile uke wati xa
+atabata ihambo etile, wayaleza amahashe ake kum Xosa obe ngumsuli wawo.
+Ute kuba bhali aba- pantsi kwake bangatabata nalipina ihashe ngenxi
+yomsebenzi, benze lonto sukuba ifuneka. Omnye waba bhali wafuna ihashe,
+waya esitalini wafika umXosa engeko; waselebopa ihashe ehamba. Ite
+inkewu yaseyi mlalela ukuba ade afike nalo, ipete uqongqosholo olukulu
+Iwesibbokwe. Ude wafika nalo. Ute esihla yabe seyiko inkabi yamtwaxa,
+yamtwaxa, ngaso. Waselebanjwa umfo omkulu lowo wasiwa pambi kwe
+Landdrost eyamnika inyanga zombini nemivumbo engama 25.
+
+U REV. S. P. DU TOIT, Umougameli we mfundo e Transvaal, wacelwa ukuba
+apume kwi komponi ezininzi abekuzo, okanye apu- me ekwongatneleni
+imfundo. Yena selesuke wancama ubongameli-mfundo obo.
+
+U JOHN ANDRIES, owaginya i dayimani ezinga 32, ezibunzima emlingweni
+buzi karat ezinga 25. Ugwetyelwe iminyaka emine entolongweni, wadliwa
+ama £50, ngeveki engapaya kwepelileyo.
+
+U MATHIAS obe mangalelwe ngetyala lokuba utshise indlu e Addington, e
+Natal, ukululwe yi Attorney-General ngobunqhina obebuvelisiwe. Wati
+akuva ezondaba wasuka walila inyembezi zovuyo.
+
+NGASEMA Qumra, kude kupumele i Nciba imvula iyancony wa. Kanti tina
+siyaqotseka ngala magala o Ntlolanja no Ndaza.
+
+U KINGLEY, umlungu obe ngu Mhleli kwi pepa lase Dayimani ekutiwa yi
+Advertiser waziposa e Gqili lizele, ngenxa yomvuzo owawumiselwe umntu
+ongaya kusindisa ihashe elalisesi qikini. Akazange awamkele lomvuzo,
+wavakala sele hamb’ esiti arara, arara, kwapela.
+
+UMFUNDISI wama Dyodi e Johannesburg, iya kuba ngu Rev. M. Rabinowitz.
+
+E SERVIA, aniasoka, nabahlolo, abangena bantwana ababudala bnkwiminyaka
+enga- pezu kwa 30 nangapantsi kwa 40, baza kurafa irafu engapezulu,
+ngokupindwe bata- ta, kwale iyakurafwa ngaba nezindlu.
+
+KUMAZWE ase America kade kwamiswa umteto wokokuba umntu ongazeka umza
+wake,—umntana kayisekazi nodade boyise okaninakazi noka ninalume
+ohlwaywe. Kubonwa indawo yokuba abantwana begazi elinye, elinjalo basuke
+batandwe lihashe, nabulima njalo njalo. Kakade tina kowetu apa imitshato
+enjalo asinto yenziwayo.
+
+IXEGO abati ngu J. H. Stowman, life ngolwesi-Hlanu olungapaya
+kolugqitileyo selikumnyaka wama shurni asitoba anesitoba lisenengqondo
+yalo yonke, kanti pofu libe linobulwelwe obukulu.
+
+E BULTFONTEIN Umtaliyane abati ngu Francisco ngobusuku be-Cawa epambi
+kwe- gqitileyo uke weyela kumnxhonu akazi, obunzulu buzinyawo ezipakati
+kwama 200 nama 300. Wasinda noko kuba ute kanti nmhlaba ezantsi
+uwushuwushu.
+
+  UMFANA abati ngu Johnstone e Barberton
+
+  (kwele golide) uke wabaleka nomfazi
+  ka Parker. Balandwe bafunyanwa bafunayanwa
+
+  kwasendleleni, e Queen’s River. Kubuywe
+  naho. Waza u Johnstone lowo bamdyoba
+  itela wati elelo rini-rini bamncamatelisa
+
+  intsiba, batsho wayiloncanda. Bamti
+  kancinane ngentwana yekatsi.
+
+futu
+
+Amabhulu awayechase abantu
+ntsundu e Komani ukuba bangageni
+evotini afumana kaloku azishwayimbana
+xa u Mantyi wayeseleyigwebela into
+eninzi yabantsundu. Isininzi sabanga-
+ngenanga ngabangafinyelelanga ngo-
+kwabo. I
+
+ISIYALO KUBAFUNDISI.
+
+Nainhla sibanika abafundi betu Isiyalo
+sika Rev. R. Lamplough (Uvulindlela),
+asibhekisa ku Bafundisi Abantsundu base
+Wesile abebebekwa izandla ngo 1887.
+Siyintshumayelo ebalulekileyo, pantsi
+kwemeko ezibalulekileyo:—
+
+Izenzo, XI. 24,—Ngokuba ebeyindoda elu-
+ngileyo, ezelengu Moya Oyingcwele nayi-
+nkolo. Kongezwa Enkosini indimbane
+eyaneleyo.
+
+BAZALWANA BAM ABATANDEKILEYO.
+
+Lo ngomnye wernihla emikulu kunene,
+ebomini benu,—ngapandle kwamatanda,
+ngumhla eniyakumana niwukumbula
+entsebenzweni eniza kungena kuyo,
+ekulingweni, nasebunzimeni, umhla
+eniyakuwukumbula mhla niwugqibi-
+leyo umsebenzi wenu, waye unapakade
+etwabululeke pambi kwenu ; ewe, naxe-
+nikweni seningene kwelo lizwe elibumo-
+ya, inkumbulo yalomhla, neyalenkonzo
+izukileyo ingabuya ipakame ibalasele
+pambi kwenu.
+
+Nina, Bazalwana, nimi pambi kwale
+ntlanganiso njengabo abambeke nxamnye
+umntu omdata nemisebenzi yake, nama-
+mbata omtsha, odalwe ngokufana no
+Tixo ebulungiseni nase bungcweleni be-
+nyaniso. Nibushiyile ubom obudala bo-
+buginwa, nobunyama, nesono, ningene
+kobutsha bococeko nenkonzo yobu Kristu.
+
+Kanti anipele apo; niti nibizwe ngu
+Tixo, ukuba ubom benu nibugqibele eku-
+shumayeleni ezondaba ezilungileyo, ezi-
+ngenise ukukanya ezintliziyweni zenu,
+zaguqula intliziyo nempilo zenu. Ibandla
+linamkelele lomsebenzi, linibeke ke nxa-
+mnye, ngesi senzo sizukileyo Sobeko-
+Lwezandla, linibekela umsebenzi wobu-
+fundisi cbuzeleyo.
+
+Ndinexesha elaneleyo kweli lizwe nga-
+ngokuba ndisenokuyikumbula imihla
+oko kwaye kungeko Bafundisi Bantsu-
+ndu. Yaye ise 20 iminyaka bati bamke-
+lelwa ebulingweni abafundisi bokuqala
+abantsundu, ikwi 16 abati abatatu bokuqa-
+la bamkelelwa kubufundisi obuzeleyo
+pakati kwetu. Njengoko abanye kuni
+bayakukhumbula, amagama abo ngo
+Charles Pamla, John Lwana, no James
+Lwana. Omnye kwaba seleye kwamkela
+umvuzo wake, ababini basa sebenza ngo-
+kukolekileyo pakati kwetu.
+
+Akutuneki nganto ukuba ndinikhum-
+buze ukuba lisiko kuwo onke Amabandla,
+ukuti xa abantu bangeniswa kwibanga
+nomsebenzi wobufundisi bobu Kristu,
+kubeko Isiyalo esibhekiswa kubo. Lo-
+msebenzi uhleli pezu kwam ke namhla,
+waye ingumsebenzi onzima; ndiyawuva.
+
+Ndite xa ndicinga ngendawo endingati
+ndenze amazwi kuyo ngelituba libalule-
+kileyo ndanga ndingenza amachapaza
+ngesimilo sika Barnaba, njengoko sane-
+kiweyo kumazwi ati, “ Ebeyindoda elu-
+ngileyo, ezele ngu Moya Oyingcwele nayi-
+nkolo. Kongezwa Enkosini indimbane
+eyaneleyo.”
+
+Apa kwanekwe pambi kwetu isimilo
+sika Barnaba, indalo awayepumelele nga-
+zo ngokwase mpefumlweni, nokupumelela
+kumsebenzi wake. Ukuba niyandibuza,niti
+kunganina ukuba ndityumbe lengxoxo,
+ndipendula nditi, kungokuba ndicinga
+ukuba u Barnaba ungumlinganiselo om-
+hle wa Bafundisi betu Abantsundu, um-
+linganiselo abangati bawufuze, kuba ama-
+bala ka Barnaba banokuba nawo bonke
+Abafundisi Abantsundu bakowetu, nga-
+ngoko banezipiwo. Kuba, qondani, aku-
+tshiwo ukutiwa u Barnaba wayeyindoda
+efunde kunene, mhlaimbi eveleleyo nge-
+z ipiwo, a kunene abafundisi abambalwa
+bakowetu abamhlophe na Bantsundu aba-
+
+nazo, nabanokuba nazo. Kodwa waye
+yindoda elungileyo, ezele ngu Moya Oyi-
+ngcwele nayinkolo ; ezi zinto ke sinoku-
+ba nazo sonke. Sonke, nokuba simhlope
+na nokuba simnyama, sinako ukuba nga-
+madoda alungileyo, sinako ukuba ngaba-
+zele ngu Moya Oyingcwele nayinkolo;
+
+  kwaye, ukuba sinjalo, kungenakwenzeka
+  ukuba singapumeleli emsebenzini.
+
+  Amazwi esimi kuwo, angomnye waba
+  sebenza ngempumelelo enkulu ngama
+  xesha Abapostile, engumhlobo nekolwane
+  lo mpostile omkulu wabentlanga, nowa
+  fumana kwi sahluko se 11 se Zenzo zaba
+  Postile, isiqendu sa 24.
+
+I.  Make siqwalasele kwi similo sika Barnaba, indoda elungileyo.
+
+Eli lizwi ukulunga, lilizwi elincinane, kodwa liteta into eninzi.
+Ubukulu be zinto eliteta zona mayelana no Barnaba asibazi
+ngokugqibeleleyo; kodwa ziko izinto esizaziyo elibhekiselele kuzo, ngoko
+kutetwa ngaye kuyo lencwadi.
+
+1.  Siyazi ukuba waye yindoda yase nkonzweni, um-Kristu wenyaniso. Ukuze
+    umntu abe ngolungileyo ngenyaniso, makafuze u Tixo; yaye lento
+    ukulunga ingena kubako nakubani ngapandle kokuba ivele ku Tixo.
+    Asingi singati akuko kulunga nakubani ongakolwayo kubu-Kristu, nakwi
+    Bhaibhile; kuba, ukuba ezi zinto: ububele, nondileko, nomoya omhle
+    ebantwini, zikukulunga, sifumana ukuba ngamanye amaxa, ziko nakwaba
+    ngakolwayo! kanti ke nakubeni kunjalo, ziko, zivela ku Moya
+    olungileyo ka Tixo, noko yena umntu engazi, angati mhlaimbi ade
+    akupikise oko.
+
+Noko ke, kunako ukutiwa abalunge ngenyaniso ngaba kolwayo ezinyanisweni
+ezityiliweyo, naku nyana ka Tixo. Ngoko ke ukuba singa singalenza into
+egqitiseleyo kule liyiyo ilizwe, sandise ukulunga
+okuyinyaniso,—masibasondeze abantu kufupi nomtombo wokulungileyo ku Tixo
+oku Kristu. Ke u Barnaba waye sele kuqondile ukukolwa ku Yesu Kristu
+ukuba yena uyi Nkosi no Msindisi, nokuba ubomi bake abunikele
+enkonzweni. Ute ke ngoko waba ngum Kristu, umfo we nkonzo, ote ke ngoko
+waba yindoda elungileyo yenyaniso. Ndiyatemba ke, Bazalwana, ukuba nani
+kunokutiwa ninga madoda alungileyo ngale ndlela. Niya kolwa lilizwi lika
+Tixo naku Kristu okokuba ungu Msindisi wabantu bonke, no wenu. Ingaba
+kanene kuya funeka na ukuba sini qononondise ukuba nisigcine isimilo
+senu sokulunga? Yibani ngama Kristu ngenene, niti ekupileni kwenu nipile
+ngohlobo angena kuti ubani asikanyeze isimilo senu sobu Kristu. O,
+Bazalwana bam, nokuba ningaba yintonina, mhlaimbi ningabi ntonina,
+makungabiko unako ukufumana nomhlatyana woku butandabuza ubu Kristu
+benu.
+
+Kwakona kupauleni okokuba u Barna- ba waba yindoda elungileyo nakubeni
+wa- kulela pakati kwezinto ezinga kukutaziyo ukulunga.
+
+Kuncinane kunene esikwaziyo ngobom bake bokuqala, ngapandle kokuba waye
+ngum Yuda wesizwe sika Levi, nokuba waye ngowe siqiti esiyi Kipro
+ngokuzalwa. Indawo ke leyo ekohla- keleyo, sisiva emabalini. Yayi ngento
+ubuginwa kona, Iwaye unqulo Iwakona luloluyintshontsho napakati
+kwentlobo zonqulo zaba ginwa. Nje ngom-Yuda ke akuko matanda ukuba u
+Barnaba waqeqeshelwa ukuba angangeni kuma tiletile abaginwa, kanti ke
+noko wave ngena kunceda ukuba angawaboni. Ute ke nakubeni waye raulwe
+yinkohlakalo nakunchola, waputna kwezouto waba ngumlandeli ozilahleleyo
+ka Kristu. Abanye kuni, Bazalwana bam, bebe pakati kobuqaba ngemini zabo
+sobutsha, niyazazi into ezingcolileyo zabo, noba pantsi bazo, kodwa
+ngetaru lika Tixo nihlanjiwe, nangcwaliswa, nenziwa aba- lungileyo
+egameni le Nkosi u Yesu. Ingaba kanene kuya funekana ukuba siniyaleze
+ukuba nibetele kude nango- ko ninako, kwindlela ezikohlakelevo zobom
+benu obudala? Nanjengokuba nina niwazi amasiko obuqaba ngapezu kokuba
+esaziwa ngabaninzi abafundisi abamhlope, ’msani ukupeza ukubavaia
+abakolwayo pantsi kwenu, ukuba bapume kanye kwezo ntlondi, bakwebu- ke,
+bangareshi kokuncholileyo.
+
+2.  Kanti ke, kwakungengakuba u Barnaba waye yindoda elungileyo ; kuba
+    waye yindoda eguqukileyo, e’ngum Kristu wenyaniso kupela. Kodwa kuko
+    indawo ezizimbasa zokulunga esimilweni sake, ezibonakala ebalini
+    lake, indawo ezifanele ukulinganiswa siti so’nke na- kumbi ngabo
+    babekelwe nxa’mnye umsebenzi wobufundisi. Siqala ukuva ngo Barnaba
+    malungana nezigigaba eza- landela umhla we Pentekoste. Silesa: “
+    Kekaloku u Yose, owatiywa ngaba- postile elinye igama lokuba Barnaba
+    wati enomhlaba watengisa ngawo, wayi- zisa imali wayibeka ezinyaweni
+    zabanos- tile.”
+
+(1) . Ngokupatelele egameni lake u Bar-
+
+naba, eliteta ukuba ngunyana wotutuzelo,
+woyalo. Eligama walinikwa ngaba
+Postile, linesintsonkoto mayelana nesi-
+milo sake, isipo awayenaso. Sasiyintoni-
+na? Ngamandla oyalo olushushu, olufu-
+ndisayo, olukutazayo. U Barnaba ubo-
+nakala njengendoda eyayinobubele nota-
+ndo, eyayinamandla okukhutaza nokutu-
+
+tuzela abanye. Bateke
+bamnika igama lokuba ungun
+Tutuzelo. Igama elihle, abanganqwe-
+nela ukuba libe lelabo kubafanele
+njengati Bafundisi. Kodwa
+
+ngegama elichasene neli, onyana boku
+khutaza nokututuzela abakatazekileyo
+nabawileyo sisuke sandise ukumatsheka
+nokuwa kompefumlo. Mayinga kanka-
+nywa mayelana nani lento, Bazalwana.
+Zamani ukuba nine nomoya oyakubanga
+ukuba namkeleke ngovuyo kwabawileyo
+ngompefumlo, naba matshekileyo. Yiba-
+ni ngabahleli bezilungiselele ukuteta ama-
+zwi entutuzelo kwabadanileyo naba dini-
+weyo; ngoko niyakuhlala nisamkeleka
+ngovuyo kwizindlu ezililayo, nokubako
+kwenu kuyakupalaza ukukanya nokupila
+kweso sangqa senu. Bazalwana, ukuba
+ngunyana wo Tutuzelo ngqe, kukuba
+njengo Kristu, umongameli. Wayegqi-
+belele yena ukuba ngunyana wo Tutuzelo.
+Yayeke ukuba singa singahamba emko-
+ndweni wake, masinxhamele ukusela ku
+Moya Wake, sizame nati kwabanye noku-
+ba kungendlelana encinane, ukuba yilo-
+nto wayeyiyo kwanobudlova, abamatshe-
+kileyo, nabadiniweyo bonyana nentombi
+zabantu, awaye mana ehlangana nabo.
+
+(2) . U Barnaba waye yindoda emoya
+    ukululekileyo ngase bantwini bonke, oko
+    kuyabonakala kwisenzo sake sokutengisa
+    ngomhlaba wake, imali yonke ayinike
+    abapostile ukuze kuhanjiswe Ilizwi lika
+    Kristu. Ewe, u Barnaba waye yindoda
+    erola kunene, erola ngochayito, engaroli
+    ngesandla esifumbeteyo; ayiyibambanga
+    yona imali njengo Hananiya. Abanye
+    kuni, Bazalwana, bangaba banamafa aba-
+    washiyileyo ekuzinikeleni ebufundisini.
+    Kodwa anincamanga konke enibe ninako
+    njengokuba wenjenjalo u Barnaba. Ama-
+    kaya ingaba nawancama nawashiya,
+    mhlaimbi kwakunye nempahlana. No-
+    kuba ke ingaba nizikanyele ngantonina
+    makungabiko kulila nokunqala ngezinto.
+    Ndaweni yoko mayibe yinto enizingca
+    ngayo ukuba nikubale konke njenge-
+    nkunkuma, xa kutelekiswe nokudlulisela
+    kokwaziwa kuka Kristu Yesu oyi Nkosi
+    yenu.
+
+3.  U Barnaba waye yindoda enobulali,
+    ezele bubele nevela abanye. Oku kuqo-
+    ndakala esimilweni awasibonakalisa ku
+    Saul wase Tarso. Kuleyo ndoda
+    eyayike ilutshaba lobu-Kristu, umtshu-
+    tshisi wama Kristu, yaguquka xa
+    yabe isiya e Damasko, eyati ibuyela e
+    Yerusalem yanqwenela ukuzibandakanya
+    kuba fundi kodwa babe moyika bonke,
+    bengakolwa ukuba ukwa ngowenani
+    labafundi. Eli lixesha elibalulekileyo
+    ebalini lika Paulos nelebandla; kwaye
+    ukuba okungavani bekute akwakweleli-
+    swa kungavelisa inkatazo. Kwasetye-
+    nzwa ngu Barnaba ukupeliswa koku
+    ngavani oko, wamtabata u Paulos
+    wamzisa kuba postile, waba balisela
+    ngohlobo ate naye wayibona i Nkosi,
+    nendlela eyateta naye ngayo, nohlobo
+    ate ngokalipo washumayela e Damasko
+    egameni lika Yesu. Isiqaino soko saba
+    kukuba kubeko ukutembana okukulu
+    pakati ko Saul nabafundi, obe ngumtshu-
+    tshisi nanko ngoku sele ngodlelana naba
+    postile e Yerusalem, umhlobe otembeki-
+    leyo, nosebenza kunye nabo, engena,
+    epuma, eteta ngobuganga egameni le
+    Nkosi. Azi yaba nganga ntonina imi-
+    vuyo ka Barnaba xa wayebona izixakato
+    zoko wayekwenzile. Ukuba kwakunge-
+    ngecebo lake kanicinge ngokonwaba,
+    nokuyola, angawaye posene nako u
+    Paulos, ngamatamsanqa engelalipulukene
+    nawo i Bandla ! Esi senzo asiveliswanga
+    zmteto ezininzi, nezentshwabulo, kodwa
+    lucengo lobulumko, nolwentobeko, nolo-
+    tando. Bazalwana bam, impambano
+    nokuzmdlana zinokubako ezonto napa-
+    kati kwabantu abalungileyo, pakati
+    kwaba fundisi bendaba ezilungilevo
+    bodwa, pakati ko Mfundisi ne Bandla
+    ampeteyo ; napakati ko Mfundisi na Ma-
+    gosa e Bandla—impambano ezivelisa
+    ukubanda, ubunyewu, nokutshikilelana.
+    ukuze kungabiko luncedano emsebenzini
+    wobu Kristu, i Bandla lonakalelwe, kuti
+    ukulunga engekwenziwe kungenzeki.
+    Hayi itamsanqa lomntu onokuti, xa
+    kunjalo, angene esitubeni njengo Bama-
+    ba akwelehse ukungavani, nobumpi.
+    nokubanda, ngokwenjenjalo ababuyisele
+    ndawonve abafundi, baze babambisane
+    ngomsebenzi wobu Kristu, Bazalwam!
+    zekelani ku Barnaba. Gqalani onke
+    amatuba okungenisa uxolo, nokudala
+    umanyano emsebenzini wonke olunvi-
+    leyo, nononcedo; nikumbula ukuba
+    ukuba ninga ninga pumelela entweni
+    eniyilingayo, oko ninokukwenza xa
+    sukuba ninomova wotando nowobubele
+    Ukuze niyiqonde lento ndivitetayo make
+    ndinenzele intsomi. Kwakuko umha-
+    mbi owaye zite warnbu ngedyasi. Ku-
+    pikisene Umoya ne Langa 'ngendawo
+    yokuba nguwupina, kubo bobabini
+    ongambangela umhambi ukuba ade’
+    ayikulule idyasi leyo. Kwaqala umova
+    Wavutuza ngokoyikekayo, wapula imiti’
+    waleqa izilo ; kwafika obandayo umoya
+    kwakubi kwelo tala. Usuke umhambi
+    kwakukona ayiqoshayo idyasi. Kufike
+    ele Langa ngoku ixesha. Lute xa
+    lumkayo uqwitela, labalasela ilanga
+    kwati ngokuti kumane ukuba shushu
+    ngakumbi ngakumbi, wamana evivula
+    idyasi umhambi, ude ekugqibeleni weva
+    ukuba ingnmtwalo, wayikulula. Kube
+    njalo, loyisa i Langa apo Uqwitela lumra-
+    pumelelanga. ⁶
+
+Ngxatshoke; oko kungena kufezwa
+ngamabhavumo kunokugqitywa lululeko
+oluzohleyo. Ngubaninake onako uku-
+zixela izinto ezintle nezinkulu ezinok-
+veliswa sisenzo esinve esinjengeso sika-
+Barnaba ? Masizame ke ukuhamba
+emanyatelweni ake.
+
+4. U Barnaba waye yindoda enokutenjwa
+
+. Oku kubonala kwindawo abebe-
+kwe kuyo ngabapostile ne Bandla e
+Yerusalem kuba bekusiti xa kufuneka
+umntu wokuquba umsebenzi onzima
+oxakileyo, kunyulwe u Barnaba. Kufike
+udaba e Yerusalem lokuba umsebenzi
+ongummangaliso uqaleke e Antiyokwe
+nakwizipaluka zalo. Yaye ingenawo
+
+ama Yuda odwa awayilamkela ilizwi
+ebuyela Enkosini, kodwa nama grikie
+Ibandla elalise Yerusalema lagqiba kwelo-
+kutumela omnye walo ukuba aye kulita-
+batela indaba zalomsebenzi ungumm-
+ngaliso.. Yiyipina indoda ewufaneleyo
+umsebenzi lowo? Iya kufunyanwa
+
+pina indoda etembekilyo, enobulali
+nengqondo intle eluvo luhle
+
+abapostile
+
+zana wo
+aba
+_(r)_ _(o) uloyi-
+
+ko ukuba abanye kuti banokubizwa
+
+Rora, bo Kungonwabi. Endaweni yoku-
+
+2 IMVO ZABANTSUNDU [ February 15,1888

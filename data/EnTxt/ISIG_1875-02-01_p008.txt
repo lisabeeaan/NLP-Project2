@@ -1,0 +1,26 @@
+  Klip Drift .
+  Du Toit’s Pan
+
+5 0 ne 6 0
+
+5 0 ne 6 0
+
+7.   0 ne 7 6
+
+8.   0 ne 8 6
+
+5 0 ne 6 0
+
+5.   0 ne 6 0
+
+7 0 ne 7 6
+
+3.   0 ne 3 6
+
+4.   6 ne 5 0
+
+6.   6 ne 7 0
+
+7.   0 ne 8 0
+
+6 0 ne 7 0

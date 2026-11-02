@@ -1,0 +1,27 @@
+{
+  "mbert": {
+    "name": "bert-base-multilingual-cased",
+    "type": "mlm",
+    "has_xh": false
+  },
+  "afriberta": {
+    "name": "castorini/afriberta_large",
+    "type": "mlm",
+    "has_xh": false
+  },
+  "xlmr": {
+    "name": "FacebookAI/xlm-roberta-large",
+    "type": "mlm",
+    "has_xh": true
+  },
+  "afroxlmr": {
+    "name": "Davlan/afro-xlmr-large",
+    "type": "mlm",
+    "has_xh": true
+  },
+  "inkubalm": {
+    "name": "lelapa/InkubaLM-0.4B",
+    "type": "clm",
+    "has_xh": true
+  }
+}

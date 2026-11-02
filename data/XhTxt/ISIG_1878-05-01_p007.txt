@@ -1,0 +1,208 @@
+EZASE MARKENI.
+
+E-QONCE.
+
++-------------------------+----+---+----+----+---+
+| Umbona nge ngxowa ...   | 23 | 0 | ne | 25 | 0 |
++=========================+====+===+====+====+===+
+| Itapile „ „             | 0  | 0 | ,, | 40 | 0 |
++-------------------------+----+---+----+----+---+
+| Amazimba „              | 0  | 0 | ,, | 0  | 0 |
++-------------------------+----+---+----+----+---+
+| Umgubo „                | 20 | 0 | ,, | 26 | 9 |
++-------------------------+----+---+----+----+---+
+| Ihabile nge 100 lbs     | 0  | 0 |    | 25 | 6 |
++-------------------------+----+---+----+----+---+
+| Isikumba segusha        | 1  | 0 | ,, | 0  | 0 |
++-------------------------+----+---+----+----+---+
+| Isikumba senkomo nge lb | 0  | 0 | ,, | 0  | 1 |
++-------------------------+----+---+----+----+---+
+|   E-BAYI.               |    |   |    |    |   |
++-------------------------+----+---+----+----+---+
+| Umbona nge ngxowa ...   | 27 | 0 | ne | 40 | 0 |
++-------------------------+----+---+----+----+---+
+| Amazimba „              | 20 | 0 | ,, | 26 | 0 |
++-------------------------+----+---+----+----+---+
+| Umgubo „                | 32 | 0 | ,, | 40 | 0 |
++-------------------------+----+---+----+----+---+
+| Itapile „               | 30 | 0 | ,, | 39 | 0 |
++-------------------------+----+---+----+----+---+
+| Irasi nge 100 lbs       | 25 | 0 | ,, | 28 | 0 |
++-------------------------+----+---+----+----+---+
+| Isikumba senkomo nge lb | 0  | 3 | ,, | 0  | 3 |
++-------------------------+----+---+----+----+---+
+| Esegusha sisinye        | 0  | 6 | ,, | 2  | 0 |
++-------------------------+----+---+----+----+---+
+| Esebokwe „ ...          | 1  | 9 | ,, | 3  | 0 |
++-------------------------+----+---+----+----+---+
+| Esetole „ ...           | 2  | 0 | ,, | 10 | 0 |
++-------------------------+----+---+----+----+---+
+| Iplanga ngonyawo        | 0  | 2 | ,, | 0  | 0 |
++-------------------------+----+---+----+----+---+
+| Uboya begusha...        | 1  | 4 | ,, | 0  | 0 |
++-------------------------+----+---+----+----+---+
+| Uboya beseyi bokwe ...  | 1  |   | ,, | 0  | 0 |
++-------------------------+----+---+----+----+---+
+| Intsiba zenciniba       | 20 | 0 | ,, | 29 | 0 |
++-------------------------+----+---+----+----+---+
+|   E-RINI.               |    |   |    |    |   |
++-------------------------+----+---+----+----+---+
+| Umbona nge ngxowa ...   | 0  | 0 | ne | 47 | 0 |
++-------------------------+----+---+----+----+---+
+| Amazimba „              | 0  | 0 | ,, | 0  | 0 |
++-------------------------+----+---+----+----+---+
+| Umgubo „                | 0  | 0 | ,, | 47 | 0 |
++-------------------------+----+---+----+----+---+
+| Itapile „               | 0  | 0 | ,, | 60 | 0 |
++-------------------------+----+---+----+----+---+
+| Irasi nge 100 lbs       | 0  | 0 | ,, | 25 | 0 |
++-------------------------+----+---+----+----+---+
+| Imbotyi „ ...           | 18 | 0 | ,, | 25 | 0 |
++-------------------------+----+---+----+----+---+
+| Ihabile „ ...           | 13 | 0 | ,, | 15 | 3 |
++-------------------------+----+---+----+----+---+
+
+E-FORT BEAUFORT.
+
+Umbona nge ngxowa 0 0 ne 0 0
+
+Amazimba „ ... ... 0 0 „ 0 0
+
+Umgubo „ 0 0 „ 0 0
+
+Irasi nge 100 lbs ... ... 0 0 ,, 0 0
+
+Ihabile ,, ... ... ... 0 0 ,, 0 0
+
+Itapile nge ngxowa 00 „ 0 0
+
+  IMALI EROLIWEYO IBATALELA “ISIGIDMI” NGO APRIL.                                 
+  ------------------------------------------------- --------------- ------------- --------
+  Igama.                                            Umlambo.        Ihlaulelwe.   Inani.
+  Rev. F. Mason                                     Natal           Dec., 1877    £1 4 0
+  „ C. White                                        Transkei        do            1 0 0
+  Mr. Zantsi                                        Ox Kraal        Dec., 1878    0 12 0
+  Rev. J. Ndungane                                  McFarlane       Mar., 1879    0 7 0
+  Mr. Nqana                                         Fort Peddie     Oct., 1877    0 5 0
+  ,, Gido                                           Eland’s Post    June, 1879    0 5 0
+  Rev. E. J. Warner                                 Butterworth     Dec., 1877    0 4 0
+  „ H. Warner                                       do              do            0 4 0
+  Mr. Melisi                                        Burnshill       do            0 4 0
+  „ Henry                                           Buchanan        Dec., 1878    0 4 0
+  ,, Tyamzashe                                      Peelton         Dec., 1877    0 4 0
+  ,, Love                                           do              do            0 4 0
+  „ Putumani                                        do              do            0 4 0
+  ,, Hartland                                       do              do            0 4 0
+  Rev. R. Birt                                      do              do            0 4 0
+  ,, Mnyakama                                       Fort Beaufort   do            0 4 0
+  Mr. Joe James                                     Transkei        do            0 4 0
+  ,, Tsilanjana                                     Graaff Reinet   Sept’, 1877   0 4 0
+  Rev. F. Kayser                                    Knapp’s Hope    do            0 3 0
+  Mr. Yekele                                        do              do            0 3 0
+
+UMANYANO.
+
+  KEY   C.     (Words              from            Hymn      Book, No. 153). JOHN KNOX BOKWE.                      
+  ----- ------ ------------------- ------ -------- --------- ---------------------------------- ------------- ---- --------
+  S     : S    d : -. t : d : 1    1      -S =-    d¹: 1     s—.1 : S : f                       f: - m :-     S    s
+  m     m      1 : - .s : 1 : f    f      -Hl':-   1 : f     m f : m: r                         r : - d : -   m    S
+  Ha    - yi   u - ku - fa - ne    le -   ka       A - ba    za - - - - la                      na - yo       Ba   - ku -
+  d¹    : S    m : - d: m : S      d¹:-   -d¹:-    -d : d¹   S S                                S ; —S : —    d¹   : S
+  d     : d    d : - . d : d : d   d      -d       -d : d    S St                               d: -d :-      d    :-d
+
++--------------------------------+----+----+----+----+----------------+----+
+| IMALI YENQWELO EZISUKA E-RINI. |    |    |    |    |                |    |
++================================+====+====+====+====+================+====+
+| E-Alice                        | s. | d. | ne | 8. | d.             |    |
+|                                |    |    |    |    |                |    |
+|                                | 0  | 0  |    | 3  | 0 nge 100 lbs. |    |
++--------------------------------+----+----+----+----+----------------+----+
+| „ Aliwal North ..              | 0  | 0  | ,, | 10 | 0              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| „ Adelaide                     | 0  | 0  | ,, | 3  | 0              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| „ Bedford                      | 0  | 0  | ,, | 3  | 6              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| „ Burghersdorp ..              | 10 | 0  | ,, | 0  | 0              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| „ Bloemfontein                 | 0  | 0  | ,, | 15 | 0              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| „ Cradock                      | 5  | 6  | ,, | 0  | 0              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| „ Colesberg                    | 0  | 0  | ,, | 0  | 0              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| Dordrecht                      | 0  | 0  | ,, | 0  | 0              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| „ Fort Peddie                  | 0  | 0  | ,, | 2  | 0              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| Fort Beaufort ..               | 0  | 0  | ,, | 2  | 9              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| „ Hopetown                     | 0  | 0  | ,, | 0  | 0              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| „ K. W. Town ..                | 0  | 0  | ,, | 3  | 6              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| „ Middelburg                   | 0  | 0  | ,, | 0  | 0              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| „ Port Elizabeth ..            | 0  | 0  | ,, | 2  | 0              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| Port Alfred                    | 0  | 8  | ,, | 0  | 9              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| „ Queenstown                   | 5  | 0  | ,, | 6  | 0              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| „ Somerset                     | 0  | 0  | ,, | 0  | 0              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+| „ Diamond-fields               | 0  | 0  | ,, | 20 | 0              | ,, |
++--------------------------------+----+----+----+----+----------------+----+
+
+     d¹ : - t : d¹ : 1   1 :-S -d¹ : 1      s— fe:m:fe        S    S              :- : - m : s
+  -- ------------------- ------------------ ----------------- ---- ------- ------ -------------------
+     1 -S : 1 : f        f m —m : 111       r:— r             r    r              : - :- m : d
+     hla -la ngoma       nya - no, Lwa-ba   ta - - - - nda    na   - yo-   Baku   lila - la ngoma
+     m — d :m : s        d : - d -d¹ : d¹   t : - : - 1 : d   t    -t             d : m
+     d:-. d : d : d      d :-d : d : d      r : - :- r        Sv   —S1:—   d m    s : - s : - d : d
+
+     d¹:— m :—d¹: 1        S :— .d¹ :t :r¹   d : - d¹ :-
+  -- --------------------- ----------------- --------------
+     m:— S :—1 : f         m:— r : f         m :— m:—
+     nya - no, Lwaba       ta - - - nda      na - - yo
+     s : - d¹ : --d : d¹   S S               S S :—
+     d :—d m1 : f1         Si : — : - Si     d1 :- di ; -
+
+2. Yinto enje ngemibete
+Yase Herimone;
+
+Elalayo entabeni
+Ezo ze Ziyone.
+
+3. Kuba apo, U-Yehova
+Eyalele kade
+
+  Itamsanqa lab’ ubomi, Obanapakade.
+
+ISAZISO KUBABALI BENCWADI.
+
+BALIQELA abatabati be Sigidimi abatumele incwadi zokukalaza ngo-
+kuti amapepa abo akafikeleli. Kuya ziswa ke ukuba isi-
+
+zatu soko kukuba bengekasi hlauleli njengoko babetunyelwe
+incwadi yokuba bahlaule. Abanye banetyala lomnyaka abanye yimi-
+nyaka emitatu.
+
+Baya ziswa abasapele ngomnyaka we 1876 ukuhlau-
+la ukuba ama pepa abo akayi kuba satunyelwa
+ingafikanga ngo March.
+
+ABANTU abafun’ukuba batunyelwe amapepa
+
+Esigidimi, mhlaumbi aguqulwe bakufudu-
+ka asiwe apo bashenxele kona, nokuba bafun’
+ukubika ngepepa elingafikanga kubo bebelili-
+ndele, mhlaumbi bafun’ ukuhlaula imali ye
+Sigidimi yomnyaka bayacelwa ukuba mababo-
+balela u-Mr. J. W. WILSON wase Lovedale.
+Ababala incwadi zokushicilelwa ngesixosa ma-
+bazibalele Umhleli we Sigidimi Samaxosa e-
+Lovedale. Incwadi ezingenawo ngokuzeleyo
+amagama ababali bazo azisayi kushicilelwa.
+
+ISIGIDIMI SAMAXOSA, MAY 1, 1878. 7

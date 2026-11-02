@@ -1,0 +1,261 @@
+16
+
+ISIGIDIMI SAMAXOSA, JANUARY 1, 1875.
+
++---------------------+---------+----------+-------------+
+| Inani lawo kulomzi. | Umhlaba | Umhlaba  | Igama.      |
+|                     |         |          |             |
+|                     | wesiza  | wesitiya |             |
++=====================+=========+==========+=============+
+| 5                   | 960     | 543      | Machingana. |
++---------------------+---------+----------+-------------+
+| 6                   | 961     | 542      | Mathluana.  |
++---------------------+---------+----------+-------------+
+| 7                   | 962     | 541      | Mapinpani.  |
++---------------------+---------+----------+-------------+
+| 8                   | 963     | 569      | Gabassi.    |
++---------------------+---------+----------+-------------+
+| 9                   | 964     | 567      | Nodoosi.    |
++---------------------+---------+----------+-------------+
+| 10                  | 965     | 560      | Dalani.     |
++---------------------+---------+----------+-------------+
+| 13                  | 966     | 538      | Godaza.     |
++---------------------+---------+----------+-------------+
+| 14                  | 967     | 539      | Langana.    |
++---------------------+---------+----------+-------------+
+| 15                  | 968     | 540      | Umgege.     |
++---------------------+---------+----------+-------------+
+| 16                  | 969     | 546      | Sovanga.    |
++---------------------+---------+----------+-------------+
+| 17                  | 970     | 548      | Tongutu.    |
++---------------------+---------+----------+-------------+
+| 18                  | 971     | 558      | Nukumbala.  |
++---------------------+---------+----------+-------------+
+| 19                  | 972     | 440      | Notoa.      |
++---------------------+---------+----------+-------------+
+| 20                  | 973     | 550      | Luma.       |
++---------------------+---------+----------+-------------+
+
+UMZI WESIHLANU (No. 5), UMAHLULWANA B.
+
+  1    974   559   Thlagamana.
+  ---- ----- ----- -----------------
+  2    975   570   Chili.
+  3    976   569   Nosenna.
+  4    977   568   Noessi.
+  5    978   557   Setuma.
+  6    979   556   Notassi.
+  7    980   566   Umkabi.
+  8    981   554   Makalala.
+  9    982   562   Kagu.
+  10   983   561   Magufa.
+  11   984   555   Umsapa.
+  12   985   547   Umpanga.
+  13   986   553   Dusegasi.
+  14   987   552   Notoa Dusegasi.
+  15   988   551   Nosoe Dusegasi.
+  16   989   563   Nofali.
+  17   990   564   Kollele.
+  18   991   565   Juka.
+  19   992   558   Modichuna.
+  20   993   566   Nohake.
+
+E-DURBAN.—UMAHLULWANA A.
+
+  1   155   208   James Umchisa.
+  --- ----- ----- -----------------
+  2   126   142   Adam Zwartland.
+  3   127   141   Mary Zwartland.
+  4   102   119   Catsha.
+
++---------+---------+----------+------------------+
+| Inani   | Umhlaba | Umhlaba  | Igama.           |
++=========+=========+==========+==================+
+| Lawo    | WESIZA  | wesitiya |                  |
+|         |         |          |                  |
+| kulomzi |         |          |                  |
++---------+---------+----------+------------------+
+| 6       | 128     | 145      | Thomas Sindingi. |
++---------+---------+----------+------------------+
+| 7       | 106     | 121      | Umabuzana.       |
++---------+---------+----------+------------------+
+| 8       | 127     | 143      | Joe Qeena.       |
++---------+---------+----------+------------------+
+| 9       | 105     | 124      | Adam Deleni.     |
++---------+---------+----------+------------------+
+| 10      | 130     | 146      | Job Noyasi.      |
++---------+---------+----------+------------------+
+
+UMAHLULWANA B.
+
++----+----------------+-----+-------------------+
+| 3  | 156            | 197 | Nasopi.           |
+|    |                |     |                   |
+| 4  | 157            | 210 | Susan Umtole.     |
++====+================+=====+===================+
+|    | UMAHLULWANA C. |     |                   |
++----+----------------+-----+-------------------+
+| 1  | 131            | 148 | Lucy Nomtandi.    |
++----+----------------+-----+-------------------+
+| 2  | 132            | 147 | David Umtandi.    |
++----+----------------+-----+-------------------+
+| 4  | 133            | 144 | Umgani            |
++----+----------------+-----+-------------------+
+| 5  | 108            | 116 | Lydia Mayembica.  |
++----+----------------+-----+-------------------+
+| 6  | 134            | 149 | Joshua Gohla.     |
++----+----------------+-----+-------------------+
+|    | UMAHLULWANA D. |     |                   |
++----+----------------+-----+-------------------+
+| 1  | 135            | 152 | Charles Tenga.    |
++----+----------------+-----+-------------------+
+| 2  | 160            | 199 | Johannes Famela.  |
++----+----------------+-----+-------------------+
+| 7  | 112            | 122 | John Mas we.      |
++----+----------------+-----+-------------------+
+| 9  | 113            | 120 | John Zuna.        |
++----+----------------+-----+-------------------+
+| 10 | 139            | 151 | Magolanga.        |
++----+----------------+-----+-------------------+
+|    | UMAHLULWANA E. |     |                   |
++----+----------------+-----+-------------------+
+| 1  | 161            | 206 | John Ungama.      |
++----+----------------+-----+-------------------+
+| 3  | 163            | 220 | Mambona.          |
++----+----------------+-----+-------------------+
+| 5  | 165            | 204 | Mamsi.            |
++----+----------------+-----+-------------------+
+| 6  | 166            | 214 | Solomon Umbula.   |
++----+----------------+-----+-------------------+
+| 7  | 167            | 213 | Maxaba.           |
++----+----------------+-----+-------------------+
+| 8  | 178            | 218 | Peter Kota.       |
++----+----------------+-----+-------------------+
+| 10 | 180            | 201 | Benjamin Kumando. |
++----+----------------+-----+-------------------+
+
+UMAHLULWANA F.
+
+  1   181   200   Jane Banzile.
+  --- ----- ----- -----------------
+  2   182   205   Kupiso.
+  3   183   212   Nokile.
+  4   184   219   Thomas Kota.
+  5   185   211   Robert Pasiwe.
+  6   186   215   John Nogobo.
+  7   187   216   Katje Matakate.
+
+UMAHLULWANA H.
+
+  Inani     Umhlaba   Umhlaba    
+  --------- --------- ---------- -----------------
+  lawo      wesiza    wesitiya   Igama.
+  kulomzi                        
+                                 
+  1         177       202        Paul Butjana.
+  5         173       191        Umgwaya.
+  6         172       198        James Vabaza.
+                                 
+  8         170       196        Ujarmana.
+  9         169       217        Philip Sukwana.
+  10        168       189        Umzingatwa.
+
+E-NEWTONDALE. — UMAHLULWANA
+
+6.  238 274 Hannah Zatu.
+
+7.  239 273 Elizabeth Nobatu.
+
+UMHAHLULWANA D.
+
+  1   240              285   James Leod.
+  --- ---------------- ----- --------------
+  4   243              284   Hans.
+  7   246              281   Sarah Michi.
+      UMAHLULWANA E.         
+  1   247              272   Tetani.
+  2   248              271   Jephta.
+
+UMAHLULWANA H.
+
+2 254 265 Kitty Umfulah.
+
+4 255 266 John Jesse kissi.
+
+6 257 293 Jane Mangola.
+
+Yonke lemihlaba esibe siteta ngayo ayikabata- lelwa rafu. Ekufuneka
+ukuba irolelwe umhlaba wesitiya £2 10s. aze kanjalo arole £1 5s.
+irolelwa indleko zokucanda. Konomhlaba wesiza nesitiya indleko
+zokuyicanda yomibini zi £2 10s.
+
+Ubukulu bomhlaba wesiza uziroodi 41 96 ubude nobubanzi, owesitiza
+umhlaba zimorgen 2 ezine roodi 41 96 ubude nobubanzi. Kwabo banomhlaba
+wesiza nesitiya iti ubukulu bayo xa iseliqukiwe yomibini ibe zimorgen 2
+ezine roodi 41 96 ubude nobubanzi.
+
+JOHN C HUNT, J.P., I-Mantyi.
+
+Kwi Offisi Yemantyi, Peddie July 13, 1874.
+
+KWABAZA KUVELWA IZIQINISELO.
+
+  UYAZISA Umongameli Wemicimbi Yemfundo ukuba unamaxesha
+  amisiweyo okuva abanxamele ukufumana iziqiniselo (Certificates)
+
+zokuba ngabafundisi bentsapo kwizikolo ezincediswa yi government.
+Libekiswa elozwi kumadoda namankazana ngokufanayo.
+
+IMITETO YESESITATU ISIQINISELO IMI NGOLUHLOBO.
+
+I.  Abasukuba befuna ese sitatu isiqiniselo boti ukuba basifumene babe
+    nokufundisa ezikolweni zabantsundu (Mission Stations) nakwezi kutiwa
+    zezikwiqela lesitatu.
+
+Baya kuviwa kwezi zinto—
+
+1. Inteto yama Ngesi, ukulesesha nokub'ala amazwi (dictation ne Gram-
+mer.)
+
+2.  Ukubala: kude kufikwe kwi Vulgar ne Decimal Fractions.
+
+3.  Ukuxela ukuma nokumelana kwamazwe (Descriptive Geography.)
+
+4.  Ubuhle besandla ekub'aleni.
+
+5.  Ukupata isikolo.
+
+6.  Inteto yama Bulu kotandayo.
+
+7.  Inteto yama Xosa kotandayo.
+
+8.  Inteto ya Besutu kotandayo.
+
+II. Abapumele ngokuncomekayo kobalwa esiqinisweni amazwi ati
+    “with honour” (upumele nembeko).
+
+III. Okuya kulandela ukuviwa kuya kuba se Kapa nase Lusutu, kuti ukuba
+     kuko abafunayo kubeko nase Lovedale nase Nxukwebe, nakwa Captain
+     Blyth Pesheya kwe Nciba. Usuku olumisiweyo lolwa 23 ka March,
+     nentsuku ezilandelayo zombini. Abaufunayo lomsebenzi kufuneka
+     bewatumele amagama abo, namapepa axela ubudala nanqina isimilo
+     sabo, ku Mongameli Wemicimbi Yemfundo E-Kapa ngolokuqala Iuka March
+     nokuba kungapambi kwako.
+
+IV Abafuna ukuviwa kufuneka befikile kwishumi elinesitandatu leminyaka
+ngobudala.
+
+Kuya funeka ngokukulu kanye ukuba bonke abafuna umsebenzi wobuti- tshere
+babe naso isiqiniselo, esazekayo: nokuba sesesitatu nokuba sesipa-
+kamileyo kuneso.
+
+Koti ukuba kuko abangenakufikelela kwezi ndawo zikankanyiweyo balu-
+ngiselelwe ukuviwa kwenye indawo, ukuba bate bazisa kuseko ixesha; ukuba
+kuko inani elinobom bangavelwa nokuba kupina.
+
+LANGHAM DALE,
+
+  Umongameli Wemicimbi Yemfundo. Kwi Ofisi Yemfundo, E-Kapa, October
+  1874.
+
+Elipepa lishicilelwa E-Lovedale Institution mayela kolokuqala enyangeni-
