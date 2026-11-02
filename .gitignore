@@ -2,3 +2,5 @@
 # ignoring these because they are too big for github
 data/heldout/split_manifest.jsonl
 data/historical_clean/historical_clean.jsonl
+__pycache__/
+*.pyc
